@@ -1,0 +1,291 @@
+
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.1//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>{keyword}</title>
+<meta name="keywords" content="{keyword}"/>
+<meta name="description" content="{keyword}"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+
+<link href="/css/bootstrap.min.css" rel="stylesheet" />
+<link href="/css/style.css?e579f59db0aab77" rel="stylesheet" />
+
+ 
+ 
+<style type="text/css">
+.headerlogotop_id_e579f59db0aab77{
+	color: #FFF;
+	font-family: Comic sans MS;
+	font-size: 30px;
+	border-bottom: 4px solid #11B000;
+	background-color: #39505F;
+}
+.search_box_id_e579f59db0aab77{
+	font-family: verdana;
+	background-color: #F3F3F3;
+}
+.search_box_id_e579f59db0aab77 .search-field {
+	border: 3px solid #ccc;
+}
+.search_box_id_e579f59db0aab77 .search-submit {
+	border: 0;
+	padding: 5px 12px;
+	background: #15A1BD;
+	color: #fff;
+	font-size: 1.2em;
+	font-family: 'Open Sans', sans-serif;
+}
+.search_box_id_e579f59db0aab77 .search-submit:hover {
+	background: #333;
+}
+.search_box_id_e579f59db0aab77 .search_content label{
+	color:#000;
+}
+
+.top_genres_id_e579f59db0aab77 ul li,
+.video_cats_id_e579f59db0aab77 ul li{
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+}
+.top_genres_id_e579f59db0aab77 ul li a,
+.video_cats_id_e579f59db0aab77 ul li a{
+	padding: 5px 10px 4px;
+	background: #15A1BD;
+	color: #fff;
+}
+.top_genres_id_e579f59db0aab77 ul li a.all,
+.video_cats_id_e579f59db0aab77 ul li a.all{
+	background: #11B000;
+}
+.top_genres_id_e579f59db0aab77 ul li a:hover,
+.video_cats_id_e579f59db0aab77 ul li a:hover{
+	background: #333;
+}
+
+.audios_id_e579f59db0aab77 > a{
+	border-bottom: 2px solid #fff;
+	background-color: rgb(243, 243, 243);
+	padding: 4px;
+	display:block;
+	overflow:hidden;
+	font-size:16px;
+	text-decoration:none;
+}
+.audios_id_e579f59db0aab77 > a:hover{
+	background-color: #ECEAEA;
+}
+.audios_id_e579f59db0aab77 > a .title{
+	color:#337ab7;
+	font-size:18px;
+}
+.audios_id_e579f59db0aab77 > a img{
+	border: 1px solid #ccc;
+}
+.audios_id_e579f59db0aab77 > a label{
+	font-weight:normal;
+	color:#CB0000;
+	font-size:14px;
+}
+.audios_id_e579f59db0aab77 > a span.val{
+	font-size:14px;
+	color: #767676;
+}
+
+.videos_id_e579f59db0aab77 > a{
+	border-bottom: 2px solid #fff;
+	background-color: rgb(243, 243, 243);
+}
+.videos_id_e579f59db0aab77 > a:hover{
+	background-color: #ECEAEA;
+}
+.videos_id_e579f59db0aab77 > a .title {
+	color: #337ab7;
+}
+.videos_id_e579f59db0aab77 > a img{
+	border: 1px solid #ccc;
+	padding:2px;
+}
+.videos_id_e579f59db0aab77 > a .date .lb{
+	color:#CB0000;
+}
+.videos_id_e579f59db0aab77 > a .date .val{
+	color:#767676;
+}
+
+.breadcrumbs_id_e579f59db0aab77 {
+	border: 1px solid rgb(223, 223, 223);
+	background-color: rgb(239, 239, 239);
+	color: rgb(102, 102, 102);
+}
+
+.d_btn_id_e579f59db0aab77{
+	font-family: "Segoe UI","Open Sans",Arial,sans-serif;
+	text-decoration: none;
+	text-align: center;
+	padding: 6px 8px;
+	margin:0;
+	font-size: 18px;
+	text-transform: uppercase;
+	background: #04688F;
+	color: #FFF;
+	border: 1px solid #0F4B78;
+	outline: 0px none;
+	border-radius: 2px;
+	font-weight: bold;
+}
+.d_btn_id_e579f59db0aab77:hover{
+	background: #027A91;
+	color: #F3F2F2;
+	text-decoration: none;
+}
+
+.comments_id_e579f59db0aab77 .comment .username{
+	font-weight:bold;
+	color: #333;
+}
+
+.pages_id_e579f59db0aab77 a {
+	background-color: #04688F;
+	color: #FFF;
+}
+.pages_id_e579f59db0aab77 a:hover{
+	background-color: #555;
+}
+
+.artists_id_e579f59db0aab77 > a{
+	border-bottom: 2px solid #fff;
+	background-color: rgb(243, 243, 243);
+}
+.artists_id_e579f59db0aab77 > a:hover{
+	background-color: #ECEAEA;
+}
+.artists_id_e579f59db0aab77 > a img{
+	border: 1px solid #ccc;
+}
+.artists_id_e579f59db0aab77 > a small{
+	color:#CB0000;
+}
+.artists_id_e579f59db0aab77 .exp {
+	background-color: #04688F;
+	color: #FFF;
+}
+.artists_id_e579f59db0aab77 .exp:hover{
+	background-color: #555;
+}
+
+.genre_list_id_e579f59db0aab77 ul li{
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+}
+.genre_list_id_e579f59db0aab77 ul li a{
+	background: #15A1BD;
+	color: #fff;
+}
+.genre_list_id_e579f59db0aab77 ul li a.all{
+	background: #11B000;
+}
+.genre_list_id_e579f59db0aab77 ul li a:hover{
+	background: #333;
+}
+
+.abc_results_id_e579f59db0aab77 > a {
+	border-bottom: 2px solid #fff;
+	background-color: rgb(243, 243, 243);
+}
+
+.video_warp_id_e579f59db0aab77 .info_item {
+	color: #096685;
+}
+
+.video_warp_id_e579f59db0aab77 .iteamblank .ply{
+	color: rgb(255, 255, 255);
+	background-color: rgb(16, 141, 53);
+	border-radius: 2px;
+	padding-top: 3px;
+	padding-bottom: 2px;
+	padding-left: 5px;
+	padding-right: 5px;
+	font-size:20px
+}
+
+.footer_id_e579f59db0aab77{
+	background-color: #434343;
+	color: #A6A6A6;
+	padding: 0 10px;
+	display: block;
+	font-size:14px;
+}
+.footer_id_e579f59db0aab77 a{
+	color:#fff;
+	font-size:14px;
+}
+.footer_id_e579f59db0aab77 a:hover{
+	color:#fff;
+}
+
+.searchhist_id_e579f59db0aab77 {
+	border-top: 1px solid rgb(223, 223, 223);
+	border-bottom: 1px solid rgb(223, 223, 223);
+	border-radius: 0px;
+	margin: 1px 0px 1px;
+	text-align: left;
+	background-color: rgb(239, 239, 239);
+	font-family: verdana;
+	font-size: 13px;
+	color: rgb(102, 102, 102);
+	padding: 8px 10px;
+	overflow: hidden;
+}
+</style></head>
+
+<body>
+	 <span> </span>
+	
+	 <div class="search_box search_box_id_e579f59db0aab77">
+		<div class="search_contain"> 
+			<input type="text" name="q" value="" maxlength="500" id="search_textbox" class="search-field">
+			<input type="submit" value="Найти" class="search-submit">
+		</div>
+		<div class="search_content"> 
+		<label for="lmp3"></label>
+		</div>
+	</div>
+		<!--ads block 5--><noindex><div class="ads"><!--4383fd7b1f6a8dacaf3916c95b984be7--> </div></noindex>	<div class="content">
+			
+
+<h1>{keyword}</h1>
+<div class="top-genres top_genres_id_e579f59db0aab77">
+<ul><b> </b> </ul></div>				
+	<div class="searchhist searchhist_id_e579f59db0aab77">
+		<b>{manytext_bing}</b> 	</div>
+		</div>
+		<!-- /.row -->
+
+    
+	
+	<!-- Footer -->
+	<footer class="footer footer_id_e579f59db0aab77">
+		<div class="friendly-links">
+			 
+		</div>
+		<div class="footer-text">
+			Copyright © 2015 All rights reserved</br>
+			 
+		</div>
+		<div class="counters">
+ <div class="statcounter"> <img
+class="statcounter"
+src="http://c.statcounter.com/10586712/0/9bb3c780/1/"
+alt="hits counter"> </div> 
+ <div><img src="https://mc.yandex.ru/watch/32116901" style="position:absolute; left:-9999px;" alt="" /></div> 
+</div>	</footer>
+ <div id="amsb"></div><!--/noindex--><!--noindex--> 
+</body>
+
+</html>

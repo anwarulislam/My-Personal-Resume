@@ -1,0 +1,118 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width,height=device-height,user-scalable=1" />
+<title>{keyword}</title>
+<meta name="description" content="{keyword}" />
+<link rel="canonical" href="//en.freedownloadmanager.org/Windows-PC/Download-Pictures.html" />
+<link rel="alternate" type="application/rss+xml" title="Free Download Manager RSS" href="https://feeds2.feedburner.com/freedownloadmanager_org">
+<link rel="alternate" hreflang="en" href="https://en.freedownloadmanager.org/Windows-PC/Download-Pictures.html" type="text/html" />
+<link rel="alternate" hreflang="es" href="https://es.freedownloadmanager.org/Windows-PC/Download-Pictures.html" type="text/html" />
+<link rel="alternate" hreflang="pt" href="https://pt.freedownloadmanager.org/Windows-PC/Download-Pictures.html" type="text/html" />
+<link rel="alternate" hreflang="fr" href="https://fr.freedownloadmanager.org/Windows-PC/Download-Pictures.html" type="text/html" />
+<link rel="alternate" hreflang="de" href="https://de.freedownloadmanager.org/Windows-PC/Download-Pictures.html" type="text/html" />
+<link rel="icon" type="image/x-icon" href="//en.freedownloadmanager.org/favicon.ico" />
+ 
+<style>@import url(//fonts.googleapis.com/css?family=Open+Sans:400,600|Open+Sans+Condensed:300,700);div,form,form div,form input,h1,h3,html,img,li,p,span,ul{padding:0;margin:0}body img{border:none}html{width:100%;height:100%}.container,body{position:relative}body{padding:0;min-height:100%;height:auto!important;font:15px/20px 'Open Sans','Avenir next condensed',sans-serif;font-weight:400;color:#333;background-color:#4e6680;vertical-align:middle;margin:0;width:100%}a{color:#0d80bc;text-decoration:none}.container{height:100%;margin:0 auto;width:990px}h1,h3{font-family:'Open Sans Condensed',sans-serif;line-height:1.2;font-weight:100}input[type=text]{border:1px solid #acacac;border-radius:10px;-o-border-radius:10px;font-family:'Open Sans',sans-serif}input[type=submit]{border:0 none}a,input{outline:none}.icon72{width:72px;height:72px;margin-right:10px;float:left}.clear:after{display:block;content:'';clear:both}.header{height:50px;padding:22px 0 0 9px;border-bottom:8px solid #40b4f0;position:relative}.logo{float:left}.searchform{float:right;position:relative;top:1px;margin:9px 0 0}.searchform input[type=text]{height:31px;line-height:31px;font-size:15px;padding:0 40px 0 10px;width:276px;color:#4e6680;border:0 none;background-color:#b8c2cc}.search_btn{background:url(/img/new/svg/sprite.svg) no-repeat;display:block;height:19px;position:absolute;right:10px;top:6px;width:19px}.tabs,.tabs span{height:42px;line-height:42px}.tabs{position:absolute;bottom:0;left:148px}.articles-nav li,.tabs span{display:inline-block;position:relative}.tabs span{padding-right:20px;color:#fff}.tab_win{padding-left:48px}.tab_mac{padding-left:41px}.tabs span.select_tab{background-color:#40b4f0;border-radius:10px 10px 0 0;-o-border-radius:10px 10px 0 0}.tab_mac:after,.tab_win:after{display:block;position:absolute;content:'';background:url(/img/new/svg/sprite.svg) no-repeat}.tab_win:after{background-position:0 -33px;width:18px;height:18px;top:11px;left:21px}.tab_mac:after{background-position:-30px -33px;width:16px;height:20px;top:9px;left:16px}.ab1 .adv_wrap{max-width:100%;margin:0 auto;max-height:100px}.ab1 .adv_wrap,.right_container{overflow:hidden}.articles-nav{margin:0 10px 10px 0}.articles-nav li{font-size:13px;list-style:none;margin:0 8px 0 0}.articles-nav li:before{font-size:13px;display:block;content:'›';position:absolute;top:-1px;right:-9px;color:#0d80bc}.articles-nav li:last-child:before{display:none}.left_container h1{font-size:44px;position:relative;clear:both;color:#f7f7f7;background-color:#13324b;padding:14px 37px 40px 115px;line-height:48px;width:AUTO;margin:0 0 0 -10px;left:0}.fdm_block{width:323px;max-width:100%;height:280px;float:left;position:relative;background-size:cover;box-sizing:border-box}.right_container .fdm_block{border-bottom:10px solid #4e6680}.how_to_block div{position:absolute;top:0;bottom:0;left:0;right:0}.how_to_block div.col1{background-color:rgba(239,111,74,.8)}.fdm_block .h3,.how_to_block_h1{font-family:"Open Sans Condensed",sans-serif;font-weight:100}.how_to_block_h1{background-color:rgba(0,37,79,.9);color:#fff;padding:0 15px;width:258px;height:126px;position:absolute;left:0;top:31px;overflow:hidden;display:block;font-size:30px;line-height:40px}.fdm_block .h3{font-size:34px;line-height:36px;margin-bottom:20px}.software_item{clear:both;padding-bottom:20px}.software_item div{font:15px 'Open Sans',sans-serif;float:left;width:173px;overflow:hidden}.software_item p{color:#7d7d7d;font-size:13px}.software_item .icon72{margin-right:15px}.software_block{height:auto;box-sizing:border-box;padding:16px 28px 20px 20px}div.ad_strip_noline{padding-top:18px;margin-top:5px;text-align:center;margin-left:auto!important;background:url(/img/ad_strip_noline.png) center top 3px no-repeat}.ab1{overflow:hidden}.wrapper{width:990px;margin:0 auto}.content{width:100%;display:table;table-layout:fixed;border-top:10px solid #4e6680}.left_container,.right_container{display:table-cell;float:none;position:static;left:0}.left_container{vertical-align:top;background:#fff;padding:10px 0 50px;width:auto}.right_container{width:308px;background-color:#d6d6d6;border-left:10px solid #4e6680;min-height:1px}.lang_dd a,.relative{position:relative}@media (max-width:1006px){.header{padding:22px 20px 0}.tabs{left:168px}.container,.wrapper{width:100%}.content{border-top-width:10px;padding:0 10px}.content,.left_container{box-sizing:border-box}}@media (max-width:800px){.searchform input[type=text]{width:90%;float:right}.content{border-top-width:10px;padding:0 3%}}@media (max-width:780px){.ab1{height:auto}}@media (max-width:680px){.searchform input[type=text]{width:45%}}@media (max-width:580px){.header{padding-top:16px;height:auto}.logo{float:none;display:block;margin:0 auto}.searchform{width:100%;margin-top:18px;margin-bottom:16px}.searchform input[type=text]{width:100%;box-sizing:border-box;border-radius:6px;-o-border-radius:6px}.tabs{position:relative;margin-top:65px;left:auto;text-align:center}.content{border-top-width:15px;padding:0 10px}}.lang{position:absolute;right:0;top:32px;color:#fff;font:22px 'Open Sans Condensed',sans-serif;display:block}.searchform{margin-right:88px}.lang_slct{padding-left:34px;padding-right:20px;position:relative;background:url(//freedownloadmanager.org/public/img/sprite.png) 60px 14px no-repeat}.lang_dd a:before,.lang_slct:before{content:'';display:block;width:27px;height:16px;position:absolute;left:0;top:8px;background:url(/img/new/svg/flags.svg) no-repeat;background-size:cover}.lang_dd a:before{left:7px;top:7px}.lang_dd a.es:before,.lang_slct.es:before{background-position:0 -16px}.lang_dd a.fr:before,.lang_slct.fr:before{background-position:0 -32px}.lang_dd a.pt:before,.lang_slct.pt:before{background-position:0 -48px}.lang_dd a.de:before,.lang_slct.de:before{background-position:0 -64px}.lang_dd{position:absolute;right:0;top:0;width:80px;background-color:#f9f9f9;border:1px solid #4e6680;border-radius:10px;z-index:100000}.lang_dd a{display:block;padding-left:40px;line-height:28px;color:#4e6680}.lang_dd a:first-child{border-bottom:1px solid #e1e1e1}.lang_dd a:hover{color:#bc260d}.lang_dd:before{display:block;content:'';position:absolute;top:13px;right:3px;width:11px;height:6px;background:url(//freedownloadmanager.org/public/img/sprite.png) 0 -88px no-repeat}@media screen and (max-width:1006px){.lang{right:10px}}@media screen and (max-width:860px){.searchform input[type=text]{width:90%;float:right}}@media (max-width:760px){.searchform input[type=text]{width:45%}}@media (max-width:660px){.searchform{margin-right:75px}.searchform input[type=text]{width:15%}}@media (max-width:580px){.header>a{display:table;margin:0 auto}.searchform{margin-right:0;margin-top:16px}.searchform input[type=text]{width:100%}.lang{right:19px;top:26px}.header{height:142px}}h3{clear:both}.left_container{padding-left:0;padding-right:0}.fade_out{display:none;position:absolute;top:0;bottom:0;left:0;right:0;z-index:1;background-color:rgba(0,0,0,.5)}.software_block.related_block{z-index:100;background-color:#d6d6d6;border-bottom:none}.articles-nav,.by_dev{margin-left:20px;overflow:hidden}h1 .icon72{left:30px;position:absolute;top:17px}.by_dev{position:absolute;margin-top:-35px;color:#67b1d6;margin-left:107px;max-width:56%;white-space:nowrap;text-overflow:ellipsis}.prog_info{background-color:#eee;height:80px}.prog_info>div{float:left;margin:10px 0;padding:0 4%;height:60px;border-left:1px solid #d6d6d6;box-sizing:border-box}.rate_info{color:#73787c;display:block;font-size:11px;padding-top:2px}.prog_info p{width:63px;height:14px;margin-bottom:5px;margin-top:4px;background-image:url(/img/new/svg/sprite.svg);background-repeat:no-repeat}.user_rate{background-position:0 -761px}.rate_it{background-position:0 -781px}div.prog_download{width:40%;border:none;height:52px;padding-top:8px;padding-right:0}.prog_download a{color:#52a918;font:900 22px/23px 'Open Sans Condensed',sans-serif;padding-left:33px;background:url(/img/new/svg/sprite.svg) no-repeat 0 -439px}.prog_download span{padding:0 0 0 33px;font-size:13px;display:block;margin-top:2px}.prog_averagerate,.prog_rate{width:30%}.prog_content{background-color:#f7f7f7}.rate_wrap{width:91px;height:15px;background:url(/img/new/svg/sprite.svg) no-repeat 0 -353px;position:relative}.rate_wrap a{display:block;height:16px;width:18px;left:0;position:absolute;top:0}.rate_wrap a.s1{width:18px}.rate_wrap a.s2{width:37px}.rate_wrap a.s3{width:56px}.rate_wrap a.s4{width:75px}.rate_wrap a.s5{width:91px}.rate_wrap div{position:absolute;width:91px;height:15px;background:url(/img/new/svg/sprite.svg) no-repeat 0 -373px}div.rate_blue{background-position:0 -393px}.quick_specs{width:217px;float:left;margin:20px 0 10px 4%;padding:0;position:relative;overflow:hidden}.quick_specs>div{border-bottom:1px solid #d0d0d0;padding:5px 0 6px}.quick_specs a img{max-width:100%}.quick_specs a{position:static;display:block;margin-top:15px}.quick_specs span.head{font-size:13px;font-weight:700;color:#666;display:block}.ab320{float:right;margin:20px 2.8% 10px}.left_container h3{color:#13324b;font:900 22px/60px 'Open Sans Condensed',sans-serif}.left_container h3,.prog_block{margin:0 20px;clear:both}.pub_descr p{color:#000;margin:-3px 0 20px;line-height:25px}.ab1{background-color:#fff;text-align:center;padding:10px}.adv_wrap{max-width:730px;margin:0 auto}@media (max-width:1006px){.left_container h1{left:0;width:auto;padding-left:30px;box-sizing:border-box}.by_dev{max-width:52%}.left_container h1:after,.left_container h1:before{content:'';display:block;position:absolute;top:0;bottom:0;background-color:#13324b}.left_container h1:before{width:25px;left:-25px}.left_container h1:after{width:21px;right:-20px}h1 .icon72{position:static;margin-top:3px}.ab320{width:52%!important;min-width:336px;overflow:hidden}}@media (max-width:965px){.ab320{width:100%!important;overflow:hidden;margin:20px auto;padding:0 20px;float:none;clear:both;text-align:center;box-sizing:border-box}.adv_wrap_336{width:100%;overflow:hidden}.prog_content{position:relative;padding-bottom:10px}.quick_specs{position:static}.quick_specs a{top:20px;bottom:auto;right:4%}.by_dev{max-width:44%}}@media (max-width:870px){.prog_download a{font-size:17px;background-position:0 -443px;min-height:26px;display:inline-block}}@media (max-width:850px){.quick_specs a{top:190px;right:auto;left:4%}}@media (max-width:800px){.ab1{overflow:hidden;width:100%;box-sizing:border-box;padding:15px 3%}.left_container,.right_container{display:block;padding-bottom:0}.left_container h1:before{width:31px;left:-30px;display:none}.by_dev{max-width:74%;margin-left:102px}.left_container h1{margin-left:0;padding-left:20px}.left_container h1:after{display:none}.right_container{border-left:none;border-top:20px solid #4e6680;background-color:#4e6680;width:100%}.right_container .fdm_block{border-bottom:0;margin-bottom:20px}.fdm_block{width:48.5%;box-sizing:border-box}.fdm_block#related,.software_block.fdm_block{background-color:#d6d6d6}.fdm_block .h3{font-size:36px}.software_item div{float:none;width:auto;font-size:20px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:#0d80bc}.ab320{width:46%!important;overflow:hidden;margin:4% 2.8%;float:right;clear:none;text-align:right}.how_to_block_h1{width:100%;box-sizing:border-box}.left_container h3{font-size:24px}.pub_descr p{font-size:17px}}@media (max-width:667px){.quick_specs a{top:20px;bottom:auto;right:4%;left:auto}.ab320{width:auto!important;overflow:hidden;margin:20px auto;padding:0 20px;float:none;clear:both;text-align:center}}@media (max-width:580px){.articles-nav{margin:0 10px 10px}.left_container h3,.prog_block{margin:0 10px}.left_container h1:before{width:10px;left:-9px}.left_container h1:after{width:10px;right:-9px}.left_container h1{font-size:27px;line-height:27px;margin:0;overflow:hidden;padding:12px 9px}.left_container,.right_container{display:block;padding-bottom:0}.right_container{border-top-width:10px}.right_container .fdm_block{width:100%;margin:0 0 10px}.fdm_block .h3{font-size:31px}.by_dev{margin-left:92px;overflow:hidden;width:auto;max-width:70%;white-space:nowrap;text-overflow:ellipsis}.pub_descr p{font-size:16px;overflow:hidden}.how_to{display:block}.quick_specs a{top:190px;right:auto;left:10px}.quick_specs{margin:20px 10px 10px}.right_container .fdm_block{padding:10px}.fdm_block .h3{text-align:left}.fdm_block.software_block{min-height:0}.how_to_block_h1,.prog_info>div{padding:0 10px}}@media (min-width:580px) and (max-width:800px){.right_container{margin-left:-1.5%;margin-right:-1.5%;width:auto}.masonry_item{width:47%;margin-left:1.5%;margin-right:1.5%;overflow:hidden}}@media (max-width:480px){.prog_info{height:auto;position:relative}.prog_info>div.prog_download{float:none;padding:10px 0;height:auto;margin:0 auto;width:51%;min-height:65px}div.prog_download:after{content:'';display:block;position:absolute;left:10px;right:10px;top:64px;height:1px;background-color:#d6d6d6}.prog_info>div{padding:0 10px;border:none}.prog_averagerate,.prog_rate{width:40%}.prog_info>div.prog_averagerate{margin-left:12%}.ab320{padding:0}.ab1{padding:15px 0}.left_container h1>span{display:block;margin-left:58px;padding-bottom:2px}}@media (max-width:356px){.ab320{min-width:0}} </style></head><body class="mobile_view">
+<div id="bnr_block"><div class="container"></div></div><div class="container">
+<div class="header">
+<a href="//en.freedownloadmanager.org/"><img src="//en.freedownloadmanager.org/img/logo_FDM.svg" alt="Free Download Manager Lib" width="121" height="35" class="logo" /></a>
+<div class="main_search" >
+<form id="search_form" action="//en.freedownloadmanager.org/Windows-PC/search/" method="get" accept-charset="utf-8" class="searchform">
+<input id="search_input" type="text" name="search" size="18" maxlength="256"
+onkeyup="ajax_showOptions(this,'',event, 'Windows-PC')"
+value=""
+placeholder="Search..."
+autocomplete="off"/>
+<input type="submit" class="search_btn" name="go" value="&nbsp;" id="go" />
+</form>
+</div><div class="lang"> </div>
+</div>
+</div>
+<!-- /275405283/FDM-Lib-Header-Responsive -->
+<div class="ab1 aa-728"></div>
+<div class="wrapper">
+<div class="fade_out"></div>
+<div class="content">
+<div class="left_container">
+<div itemscope itemtype="http://schema.org/SoftwareApplication">
+<ul class="articles-nav">
+<li></li>
+<li></li>
+</ul>
+<h1>{keyword}</h1>
+<div class="by_dev" itemprop="author" itemscope itemtype="http://schema.org/Organization"> <b style="color: #67B1D6;" href="http://www.p4tec.com"
+target="_blank" rel="nofollow noopener noreferrer" title="Download Pictures P4 Technologies"><span itemprop="name">{manytext_bing}</span></b>
+</div>
+<h3>&nbsp;</h3>
+</div>
+<div class="col1 comments no-fb-com" id="comment_conteiner">
+  <div class="wrap_comments" id="comments">
+    <div class="wrap_form">
+      <div>
+        <form method="post" id="comment_form">
+          <div class="top_wrap first">
+            <input type="text" name="name" placeholder="Name" value="">
+</div>
+<div class="top_wrap second">
+<input type="text" name="email" placeholder="E-mail (will not be published)" value="">
+</div>
+<textarea name="content" placeholder="Add a comment..."></textarea><div class="comments-replies-notice">
+<input type="checkbox" id="replies_notice" name="replies_notice" value="1" class="custom-checkbox" checked>
+<label for="replies_notice" class="custom-checkbox">
+Notify me of replies from other users. </label>
+</div>
+<div class="submit-block">
+<div id="googlerecaptcha" class="g-recaptcha-comments"></div>
+<div class="c-voting">
+<div class="object-voting">
+<div class="rating_title">
+Your vote:
+</div>
+<div class="stars stars-rating">
+<div class="rate_blue" style="width:0%;"></div>
+<span title="5" data-rating="5" class="st5 one-star "></span>
+<span title="4" data-rating="4" class="st4 one-star "></span>
+<span title="3" data-rating="3" class="st3 one-star "></span>
+<span title="2" data-rating="2" class="st2 one-star "></span>
+<span title="1" data-rating="1" class="st1 one-star "></span>
+</div>
+</div>
+<input type="submit" value="Comment" class="c-input-submit"/>
+</div>
+</div>
+<div class="comment_form_loading"></div>
+</form>
+</div>
+<div class="subscribe_block" id="subscribe_form_wrapper">
+<div class="wrapper_subs">
+<label>Subscribe to comments:</label>
+<div class="inline_block">
+<form id="comment_subscribe_form" novalidate>
+<input type="email" name="email" value="" class="email_filed" id="comment_subscribe_email_field" placeholder="E-mail">
+<input type="submit" value="OK" class="ok_btn">
+</form>
+</div>
+</div>
+<span class="subscribe_msg" id="subscribe_comments_result" style="display: none;"></span>
+</div>
+</div><div id="comments_container"></div>
+</div>
+</div><div class="update_info">Latest update:
+<time class="updated" datetime="2016-02-01T05:41:16-05:00" content="2016-02-01T05:41:16-05:00"> Feb 01, 2016</time>
+</div>
+</div>
+<div class="right_container"></div>
+</div>
+</div>
+<div class="footer" id="footer">
+<div class="content_border"></div>
+<p>&nbsp;</p>
+<div class="copy">  &copy; 2006 - 2018. All rights reserved.		</div></div>
+</div> 
+<link href="//en.freedownloadmanager.org/styles/new/v3/min/program.min.css?2" rel="stylesheet" type="text/css"/>
+<link href="//en.freedownloadmanager.org/styles/new/v3/lang.css?2" rel="stylesheet" type="text/css"/>
+</body>
+</html>

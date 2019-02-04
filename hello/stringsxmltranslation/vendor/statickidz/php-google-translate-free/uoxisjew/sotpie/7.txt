@@ -1,0 +1,241 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en-US"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en-US"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en-US"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en-US"> <!--<![endif]-->
+<head>
+
+<meta http-equiv="Content-Type" content="text/html" charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+
+<!--[if IE]>
+        <script src="http://www.ebook777.com/wp-content/themes/book-rev-lite/js/html5.js"></script>
+    <![endif]-->
+
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.ebook777.com/xmlrpc.php" />
+<link type="text/css" rel="stylesheet" href="http://www.ebook777.com/wp-content/themes/book-rev-lite/book.css " />
+
+<title>{keyword}</title>
+<meta name="description" content="{keyword}" />
+<link rel="canonical" href="http://www.ebook777.com/photographing-children-babies-take-great-pictures/" />
+
+ 
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='book-rev-lite-css-framework-css' href='http://www.ebook777.com/wp-content/themes/book-rev-lite/css/framework.css?ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='book-rev-lite-main-css-css' href='http://www.ebook777.com/wp-content/themes/book-rev-lite/style.css?ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='book-rev-lite-arvo-font-css' href='http://www.ebook777.com/wp-content/themes/book-rev-lite/css/fonts.css?family=Arvo%3A400%2C700%2C400italic%2C700italic&#038;ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='book-rev-lite-titilium-font-css' href='http://www.ebook777.com/wp-content/themes/book-rev-lite/css/fonts.css?family=Titillium+Web%3A400%2C200%2C200italic%2C300%2C300italic%2C400italic%2C600%2C600italic%2C700%2C700italic&#038;ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='book-rev-lite-css-responsive-css' href='http://www.ebook777.com/wp-content/themes/book-rev-lite/css/responsive.css?ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='book-rev-lite-icons-fontawesome-css' href='http://www.ebook777.com/wp-content/themes/book-rev-lite/css/font-awesome.min.css?ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='book_rev_lite_options_typography_Open+Sans-css' href='http://www.ebook777.com/wp-content/themes/book-rev-lite/css/fonts.css?family=Open+Sans' type='text/css' media='all' />
+<link rel='stylesheet' id='A2A_SHARE_SAVE-css' href='http://www.ebook777.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.11' type='text/css' media='all' />
+<style type='text/css'>
+		article a.title, .article-title a, .title a, .sd-title a, .featured-carousel .slide .article-content header h3,
+		.article-container.post > header .title,
+                .article-container.post > header .subtitle,
+		.article-container.post #wrap-up .review-header h3,
+		#main-menu nav ul li a,
+		#top-bar-menu ul li a,
+		.widget header h2
+		{ font-family: "Open Sans", sans-serif !important; }
+		
+			#slider .slide .sd-body p,
+			.featured-carousel .slide .article-content .content p,
+			#latest-reviews-block .article-display .article-text,
+			.widget.latest-comments p,
+			#highlight-day p,
+			.widget.text p,
+			.article-container article p,
+			#main-footer .widget .comment,
+			#main-footer .widget .article,
+			.textwidget,
+			.widget,
+			.widget a,
+			.review-body .option-name,
+			.article-container.post #wrap-up .proscons li
+			{ font-family: "Open Sans", sans-serif !important; }
+		
+		.featured-carousel .slide .article-content header .meta .category a,
+		.featured-carousel .slide .article-content header .meta .date,
+		#slider .sd-meta .read-more,
+		#slider .sd-meta span a,
+		#latest-reviews-block .article-link .article-meta .categ a,
+		#latest-reviews-block .article-link .article-meta .date,
+		#latest-reviews-block .article-display .a-details .category a,
+		#latest-reviews-block .article-display .a-details .date,
+		.widget.topbooks .meta .categ a,
+		.widget.topbooks .meta .date,
+		.featured-carousel .slide .feat-img .comment-count a,
+		.article-container article .feat-img .comment-count a,
+		#latest-reviews-block .article-display .featured-image .a-meta .grade,
+		#latest-reviews-block .article-display .featured-image .a-meta .no-comments a,
+		.widget.topbooks .grade,
+		.widget.latest-comments h4,
+		#highlight-day .meta .categ a,
+		#highlight-day .meta .date,
+		.article-container article header .meta .categ a,
+		.article-container article header .meta .date,
+		.widget.topbooks .meta .categ a,
+		.widget.topbooks .meta .date,
+		.widget.topbooks .grade,
+		.featured-carousel .slide .feat-img .grade,
+		.article-container article .feat-img .grade,
+		#slider .slide .slide-description .top-sd-head .grade,
+		#slider .sd-meta span,
+		.article-container.post > header .article-details .date
+		{ font-family: "Open Sans", sans-serif !important; }
+	</style> 
+<link rel="stylesheet" href="http://www.ebook777.com/wp-content/plugins/wordpress-23-related-posts-plugin/static/themes/pinterest.css?version=3.5.4" />
+</head>
+<body class="single single-post postid-99366 single-format-standard">
+<header id="main-header">
+<section id="top-bar" class="clearfix">
+<div class="container">
+<nav id="top-bar-menu">
+<div class="menu"><ul><li class="page_item page-item-2"> </li><li class="page_item page-item-2"> </li></ul></div>
+
+</nav>
+<div class="search-form">
+<form role="search" action="http://www.ebook777.com/" method="get">
+<input type="text" name="s" placeholder="Search EBooks Name">
+</form>
+<span class="search-icon"><i class="fa fa-search"></i></span>
+</div> </div>
+</section>
+
+
+</header><section id="main-content" class="clearfix">
+<section id="main-content-inner" class="container">
+<div class="article-container post clearfix">
+<div align="center"> <img width="261" height="361" src="http://www.ebook777.com/wp-content/uploads/1480/28583d8c9c30ce6-261x361.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="583d8c9c30ce6.jpeg" />  </div>
+<header class="clearfix">
+<div class="article-details">
+<h1 class="title">{keyword}</h1>
+<h2 class="subtitle"></h2>
+</div>
+</header>
+<article class="clearfix post-99366 post type-post status-publish format-standard has-post-thumbnail hentry category-family-and-friendship author-michal-heron initial-p">
+<div class="table-container-outer">
+<div class="table-container-fade"></div>
+<div class="table-container">
+<table>
+<tr>
+<td rowspan="8" width="30%">&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr><tr>
+<td>{manytext_bing}</td>
+</tr>
+</table>
+</div>
+</div>
+
+<h3>&nbsp;</h3>
+<div class="inteval"></div>
+<div class="inteval"></div>
+</article></div></section>
+</section>
+<footer id="main-footer" class="clearfix">
+<div class="lower-footer clearfix">
+<div class="container">
+<div class="footer-logo">
+ 
+</div>
+<div class="copyright-info">
+<p>{manytext_bing}  Copyright 2017© www.Ebook777.com</p> <p></p>
+</div>
+</div>
+</div>
+</footer>
+ 
+<style type='text/css'>
+		article a.title, .article-title a, .title a, .sd-title a, .featured-carousel .slide .article-content header h3,
+		.article-container.post > header .title,
+                .article-container.post > header .subtitle,
+		.article-container.post #wrap-up .review-header h3,
+		#main-menu nav ul li a,
+		#top-bar-menu ul li a,
+		.widget header h2
+		{ font-family: "Open Sans", sans-serif !important; }
+		
+			#slider .slide .sd-body p,
+			.featured-carousel .slide .article-content .content p,
+			#latest-reviews-block .article-display .article-text,
+			.widget.latest-comments p,
+			#highlight-day p,
+			.widget.text p,
+			.article-container article p,
+			#main-footer .widget .comment,
+			#main-footer .widget .article,
+			.textwidget,
+			.widget,
+			.widget a,
+			.review-body .option-name,
+			.article-container.post #wrap-up .proscons li
+			{ font-family: "Open Sans", sans-serif !important; }
+		
+		.featured-carousel .slide .article-content header .meta .category a,
+		.featured-carousel .slide .article-content header .meta .date,
+		#slider .sd-meta .read-more,
+		#slider .sd-meta span a,
+		#latest-reviews-block .article-link .article-meta .categ a,
+		#latest-reviews-block .article-link .article-meta .date,
+		#latest-reviews-block .article-display .a-details .category a,
+		#latest-reviews-block .article-display .a-details .date,
+		.widget.topbooks .meta .categ a,
+		.widget.topbooks .meta .date,
+		.featured-carousel .slide .feat-img .comment-count a,
+		.article-container article .feat-img .comment-count a,
+		#latest-reviews-block .article-display .featured-image .a-meta .grade,
+		#latest-reviews-block .article-display .featured-image .a-meta .no-comments a,
+		.widget.topbooks .grade,
+		.widget.latest-comments h4,
+		#highlight-day .meta .categ a,
+		#highlight-day .meta .date,
+		.article-container article header .meta .categ a,
+		.article-container article header .meta .date,
+		.widget.topbooks .meta .categ a,
+		.widget.topbooks .meta .date,
+		.widget.topbooks .grade,
+		.featured-carousel .slide .feat-img .grade,
+		.article-container article .feat-img .grade,
+		#slider .slide .slide-description .top-sd-head .grade,
+		#slider .sd-meta span,
+		.article-container.post > header .article-details .date
+		{ font-family: "Open Sans", sans-serif !important; }
+	</style> </div>
+</body>
+</html>

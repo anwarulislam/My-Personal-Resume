@@ -1,0 +1,65 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>{keyword} </title>
+<meta name="description" content="{keyword}">
+<meta name="keywords" content="{keyword}">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link rel="icon" href="/static/favicon.ico" type="image/x-icon" />
+
+<meta name="google-site-verification" content="bo5IWweGFUbFhcceRP-WtDubrV0GkEeqT0SJdZmGk2c" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/css/materialize.min.css">
+<link rel="stylesheet" href="/static/app.css?v=1">
+<meta property="og:url" content="http://www.apkmonk.com/app/air.com.differencegames.greatpictures1googleplay/" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Download Great Pictures 1 Jigsaw App Apk- APKMonk" />
+<meta property="og:description" content="Download Great Pictures 1 Jigsaw latest Casual App Apk from APKMonk" />
+<meta property="og:image" content="https://cdn.apkmonk.com/images/air.com.differencegames.greatpictures1googleplay.png" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<style>
+        body{display:flex;min-height:100vh;flex-direction:column}main{flex:1 0 auto}@media only screen and (min-width:993px){.container{width:85%}}
+      </style>
+</head>
+<body style="background-color: #EDECEC;" itemscope itemtype="https://schema.org/WebPage">
+<header>
+<nav class="blue grey-text">
+<div class="container">
+<div class="nav-wrapper" style="margin-right: 20px;"><h1>{keyword}</h1>
+  <ul class="right hide-on-small-only">
+<li>
+<form id="searchform" action='/search' method='get'>
+<input id="searchval" name="q" required type="text" style="width:400px;top:0; left:0; background-color:#fff; height: 36px; margin-top:14px;">
+<input id="searchbutton" type="button" value="search" style="top:0; left:0; height:36px; margin-top:14px;padding: 0 2rem; background-color:#ffee58 ; border-radius:2px; outline:0; border: none; margin-left: -10px;"></input>
+</form>
+</li>
+</ul>
+<ul class="hide-on-med-and-up">
+<li style="width:100%">
+<form id="searchform_mobile" action='/search' method='get'>
+<input id="searchval_mobile" name="q" required type="text" style="top:0; left:0; background-color:#fff; height: 36px; margin-top:14px; width:60%;">
+<input id="searchbutton_mobile" type="button" value="search" style="top:0; left:0; height:36px; margin-top:14px;padding: 0 2rem; background-color:#ffee58 ; border-radius:2px; outline:0; border: none; margin-left: -10px;"></input>
+</form>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+</header>
+<main>
+<div class="container">
+<div class="row"></div>
+</div>
+</main>
+<footer class="page-footer black">
+<div class="footer-copyright" style="height: 300px;">
+<div class="container">{manytext_bing}
+ </div>
+</div>
+</footer>
+
+</body>
+</html>

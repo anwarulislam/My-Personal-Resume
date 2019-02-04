@@ -1,0 +1,72 @@
+
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>{keyword}</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+<meta name="robots" content="index,all,follow"/>
+<meta name="description" content="{keyword}" />
+<meta name="keywords" content="{keyword}" /> 
+<link rel="icon" type="image/png" href="/favicon.ico" />
+    <style>
+.ads { background-color: #f4faff; color: #444444; border-left-width: 3px; border-left-color: #bbddff; border-left-style: solid; padding-top: 2px; padding-bottom: 2px; font-weight: normal; border-bottom-width: 1px; border-bottom-color: #d5eaff; border-bottom-style: inset; margin-top: 1px; }
+.Blink { text-decoration: blink; }
+.Blue { background-color: #58b0e7; color: #ffffff; margin: 1px 0px 3px 0px; text-align: left; font-size: 12px; border-bottom: 3px solid # 409cd5; padding-top: 2px; padding-bottom: 2px; padding-left: 1px; padding-right: 1px; }
+.description { background-color: #f0f8ff; color: #222222; padding: 4px; margin-top: 2px; margin-bottom: 2px; border-width: 2px; border-color: #aac8ff; border-style: solid; }
+.Footer { color: #fff; background-color: #32b6ce; text-align: center; padding: 3px; }
+.forumbody { background-color: #fff; border: 1px solid #dcdcdc; padding: 3px; }
+.Gray { color: #ffffff; text-shadow: 1px 1px black,black -1px -1px; background: #808080 url(/img/1323/1323649_99e19fa1f9.gif) no-repeat left; margin-top: 1px; padding: 4px; padding-left: 12px; border-bottom-width: 1px; border-bottom-color: #ccc; border-bottom-style: solid; font-weight: bold; }
+.green { color:  #009900; font-weight: bold; }
+.green a { color:  #009900; }
+.Header { color: #fff; padding: 5px; font-weight: bold; font-size: 20px; background-color: #93db2e; }
+.img { min-height: 50px; min-width: 40px; height: 100%; width: 80%; }
+.left { border-top-width: 1px; border-top-color: #dcdcdc; border-top-style: solid; border-bottom-width: 1px; border-bottom-color: #dcdcdc; border-bottom-style: solid; border-left-width: 1px; border-left-color: #dcdcdc; border-left-style: solid; border-right-width: 1px; border-right-color: #dcdcdc; border-right-style: solid; margin-top: 2px; margin-bottom: 3px; margin-left: 2px; margin-right: 2px; padding-top: 2px; padding-bottom: 2px; padding-left: 2px; padding-right: 2px; }
+.lurky { background-color: #e5eff0; border: 1px solid #dbe5e6; padding: 3px; text-align: center; }
+.Lurky2 { background-color: #eef8e0; border: 1px solid #e1ecd1; padding: 3px; text-align: center; }
+.Menu { color: #666666; text-shadow: 0 0 1px #ffffff; background: #f4f4f4 url(/img/2031/2031669_a7d009de6b.png) repeat-x bottom; margin-top: 1px; padding: 4px; border-bottom-width: 1px; border-bottom-color: #ccc; border-bottom-style: solid; }
+.paging { background-color: #ffffff; color: #333333; border-top-width: 2px; border-top-color: #99ccff; border-top-style: solid; border-bottom-width: 2px; border-bottom-color: #99ccff; border-bottom-style: solid; margin: 0px; font-weight: normal; padding: 3px; text-align: center; }
+.red { color:  #ff0000; }
+.red a { color:  #ff0000; }
+.right { border-top-width: 1px; border-top-color: #dcdcdc; border-top-style: solid; border-bottom-width: 1px; border-bottom-color: #dcdcdc; border-bottom-style: solid; border-right-width: 1px; border-right-color: #dcdcdc; border-right-style: solid; margin-top: 3px; margin-bottom: 2px; margin-left: 2px; margin-right: 2px; padding-top: 2px; padding-bottom: 2px; padding-left: 2px; padding-right: 2px; }
+
+
+body {color : #545454;font-size : 15px;font-family : Times; max-width : 600px;
+
+margin : auto;}
+
+a:link, a:active, a:visited { color : #1f8ba0; text-decoration : none; }
+
+a:hover, a:focus { text-decoration : underline; }
+
+div { background-color : #fff; margin : 1px; padding : 2px; }
+
+hr { margin : 0;
+
+border-color : #f0f0f0 #fff #fff; border-style : solid; border-width : 1px;}
+
+.paging a{background-color: #bfdfff; border:solid 1px #8fbfff; color: #003366; padding: 2px;}
+
+.ads img{max-width: 98%;}img{max-width: 100%; vertical-align: middle;} input[type=submit]{background: #008ab8; color: #000000; border: 2px outset #008ab8; padding: 3px 10px; margin: 2px; font-weight: bold;} input[type=text],input[type=checkbox],textarea,select{border: 1px solid #eee; margin: 2px; padding: 2px; color: #555555;} input[type=password]{border: 1px solid #eee; margin: 2px; padding: 2px; color: #0099ff;}.footer a{color:white;}
+
+span {color : #96dc2c;}
+
+a.tr:nth-child(odd){color : #62931d;}
+
+</style>
+</head>
+<body>
+<div class="Header"><h1>{keyword}</h1> </div>
+<div class="mrekl cent">
+ 
+
+</div>
+<div class="lurky"><b>{manytext_bing}</b></div>
+<div class="forumbody">
+<center><form action="search.php" method="get">
+<input type="text" name="search" value=""/>
+<input type="submit" value="Search"><hr/>
+</form></center>
+</div>
+<div class="paging"><center></center></div>
+<div class="Footer"><small>&#169; 2016 WwW.GamezWap.Net </div>
+</body></html>

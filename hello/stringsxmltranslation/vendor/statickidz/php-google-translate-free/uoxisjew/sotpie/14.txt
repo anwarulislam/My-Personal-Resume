@@ -1,0 +1,75 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_D51414K5eucwClS657aP+iPUrUp+E6GwOPD55WLGH3gqstrG7QMJFGC3HPserC48nQd25CDFGtur7khyZa+KFA==">
+<head><meta http-equiv="Content-Type" content="application/xhtml+xml;charset=utf-8" /> <meta name="tpld" content="fd='10484' td='12841' typ='manual_mapped'" /><title>{keyword}</title>
+<meta http-equiv="Content-Type" content="text/html; charset=">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable = no">
+<link rel="shortcut icon" type="image/png" href="http://d3ujb2t8x8alxd.cloudfront.net/rmgpsc/9733/fav1.png"/>
+<style type="text/css">
+*{margin:0; padding:0; font-family:Arial, Helvetica, sans-serif}
+a {text-decoration:none; outline:none}
+a img {border:none}
+ul,li {list-style:none}
+.clear {clear:both; overflow:hidden; line-height:0; font-size:0; height:0}
+.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear: both;height:0}
+* html .clearfix{zoom:1}
+*:first-child+html .clearfix{zoom:1}
+a{text-decoration:none}
+input{outline:none}
+
+body{font-family:Arial, Helvetica, sans-serif; padding-bottom:15px; background:#202020}
+.logoImg{width: 100%;text-align: center;}
+.logoImg img{width: 30px;padding-top: 10px}
+.main-container{position:relative; padding:0 10px}
+.domain-name{color:#ffffff; font-weight:bold; font-size:19px; padding:10px 5px 20px; text-align:center}
+.content{width:100%}
+.rsblock{width:100%; margin-top:19px; background: #202020;
+background: -moz-linear-gradient(top,  #202020 1%, #191919 1%, #191919 16%, #202020 16%, #202020 20%, #191919 20%, #191919 35%, #202020 35%, #202020 39%, #191919 39%, #191919 54%, #202020 54%, #202020 58%, #191919 58%, #191919 73%, #202020 73%, #202020 77%, #191919 77%, #191919 92%, #202020 92%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#202020), color-stop(1%,#191919), color-stop(16%,#191919), color-stop(16%,#202020), color-stop(20%,#202020), color-stop(20%,#191919), color-stop(35%,#191919), color-stop(35%,#202020), color-stop(39%,#202020), color-stop(39%,#191919), color-stop(54%,#191919), color-stop(54%,#202020), color-stop(58%,#202020), color-stop(58%,#191919), color-stop(73%,#191919), color-stop(73%,#202020), color-stop(77%,#202020), color-stop(77%,#191919), color-stop(92%,#191919), color-stop(92%,#202020));
+background: -webkit-linear-gradient(top,  #202020 1%,#191919 1%,#191919 16%,#202020 16%,#202020 20%,#191919 20%,#191919 35%,#202020 35%,#202020 39%,#191919 39%,#191919 54%,#202020 54%,#202020 58%,#191919 58%,#191919 73%,#202020 73%,#202020 77%,#191919 77%,#191919 92%,#202020 92%);
+background: -o-linear-gradient(top,  #202020 1%,#191919 1%,#191919 16%,#202020 16%,#202020 20%,#191919 20%,#191919 35%,#202020 35%,#202020 39%,#191919 39%,#191919 54%,#202020 54%,#202020 58%,#191919 58%,#191919 73%,#202020 73%,#202020 77%,#191919 77%,#191919 92%,#202020 92%);
+background: -ms-linear-gradient(top,  #202020 1%,#191919 1%,#191919 16%,#202020 16%,#202020 20%,#191919 20%,#191919 35%,#202020 35%,#202020 39%,#191919 39%,#191919 54%,#202020 54%,#202020 58%,#191919 58%,#191919 73%,#202020 73%,#202020 77%,#191919 77%,#191919 92%,#202020 92%);
+background: linear-gradient(to bottom,  #202020 1%,#191919 1%,#191919 16%,#202020 16%,#202020 20%,#191919 20%,#191919 35%,#202020 35%,#202020 39%,#191919 39%,#191919 54%,#202020 54%,#202020 58%,#191919 58%,#191919 73%,#202020 73%,#202020 77%,#191919 77%,#191919 92%,#202020 92%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#202020', endColorstr='#202020',GradientType=0 );
+}
+#rs{width:100%; position:relative; top:-20px;}
+.searchbox{margin:20px 10px 0}
+
+.footer {text-align:center; color:#ccc; width:100%; padding:20px 0 0}
+.footer a {color:#999; font-size:11px; text-decoration:none}
+.footer a:hover {text-decoration:underline; color:#333}
+
+.custom-msg {position:relative; background:#fdffec; border-top: 1px solid #ffe594; border-bottom: 1px solid #ffe594; color:#000000; text-align: center; font: 11px/14px Arial, Helvetica, sans-serif; width:100%}
+.custom-msg a {text-decoration: none; color:#CC0000; font-size: 11px;}
+.custom-msg a:hover {text-decoration: underline;}
+/*@media only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : landscape) { .content,.rsblock,#rs{width:540px} .rsblock{background-size:539px 250px}}*/
+</style>
+<!--[if gte IE 9]>
+  <style type="text/css">
+    .rsblock {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+
+
+ </head>
+<body onload="" onunload="" onBeforeUnload="">
+ <meta http-equiv="refresh" content="0;url=http://ww2.jazzysongs.com/rg-erdr.php?_rpo=t ntASuzT&_rdm=QWB4WBsNf93a5.JvV&p=J1c4gcNvvUVf4W1bFo%3D9%7C%40%7CbbGbAH%7C%40%7C%3D1CCq9vBs9.JvV%7C%40%7C%7C%40%7C%7C%40%7CEFHFGtHZZ%7C%40%7CHGHAA%7C%40%7C7M%7C%40%7C19c4NW4cGZbtZzTFZFEAFHEG%7C%40%7Ct+n7T2Mtt%7C%40%7CT+7RyFj_T&ga=xx%2Bkeu11%2BkpqCbNQWbToABoUnYwW%2BZndC%2BR8xMuL6XufNbQi196lSIJk0txfYcBgVtRjTBX3tBf%2BFCSc8Plrn7uCucdEcVESKbGpaZzR3ah17234Aq3vaRO06OGtwlpo0fb0eCA4v5Y2WMOkwtqQTlgiH0zbRQ4UFHU8DjIaOOzjMmBtdCuDRWGYJG5xzhIl&t=gnojs" /><center>
+  <p style="padding:1em; font-size:1.5em;">&nbsp; </p></center>  
+<!-- sale notice start -->
+
+<div class="main-container clearfix">   
+  <div class="logoImg"> </div>
+	<div class="domain-name clearfix"><h1>{keyword}</h1></div>
+	 
+    <div class="content clearfix">
+        <div class="rsblock clearfix">
+            <div id="rs">{manytext_bing}</div>
+        </div>
+        <div id="searchbox" class="searchbox clearfix"></div>
+    </div>
+    <div class="footer clearfix"><b>&#1055;&#1086;&#1083;&#1080;&#1090;&#1080;&#1082;&#1072; &#1082;&#1086;&#1085;&#1092;&#1080;&#1076;&#1077;&#1085;&#1094;&#1080;&#1072;&#1083;&#1100;&#1085;&#1086;&#1089;&#1090;&#1080;</b>   </div>    
+</div>
+</body>
+</html>

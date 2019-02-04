@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">my first app</string>
+    <string name="phonestorage">Internal Storage</string>
+    <string name="sdcard">SD Card</string>
+    <string name="available">available</string>
+    <string name="nothingselected">nothing selected</string>
+</resources>
